@@ -1,0 +1,29 @@
+POST /web/dataset/call_kw/res.users.identitycheck/write HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security"]
+Content-Length: 187
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept: */*
+Content-Type: application/json
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://sinour.ir
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/my/security
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"id":1,"jsonrpc":"2.0","method":"call","params":{"args":[1,{"password":"91265"}],"model":"res.users.identitycheck","method":"write","kwargs":{"context":{"website_id":1,"lang":"fa_IR"}}}}
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:28:13 GMT
+Content-Type: application/json
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:28:13 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+{"jsonrpc": "2.0", "id": 1, "result": true}

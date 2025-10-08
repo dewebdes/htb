@@ -1,0 +1,23 @@
+GET / Consoles / ReceptionPoint / FirstEnt / Resource.ashx ? query = IEjNJEXcy2mUqVZmniYnOqaw0aAm7zwv & mode=sn & value=111 & status=true & pageLoad=partial & rnd=6095443868158004 HTTP / 1.1
+Host: service.sinour.ir
+Accept - Language: en - US
+User - Agent: Mozilla / 5.0(Windows NT 10.0; Win64; x64) AppleWebKit / 537.36(KHTML, like Gecko) Chrome / 126.0.6478.127 Safari / 537.36
+Accept: */*
+Referer: http://service.sinour.ir/Consoles/VirtualReception/
+Accept-Encoding: gzip, deflate, br
+Cookie: ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z
+Connection: keep-alive
+
+
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/plain; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 08 Oct 2025 11:41:42 GMT
+Content-Length: 1113
+
+<error></error><slcode>SL0000000038970</slcode><serialno>111</serialno><brand>سينور</brand><app>CLASSIC</app><model>يخچال فريزر کمبي نوفراست</model><gaurantee>False</gaurantee><gauranteecode>111</gauranteecode><s_gexpdate>1399/10/02</s_gexpdate><m_gexpdate>2020/12/22</m_gexpdate><buyaccountname>آقاي امان الله قرباني</buyaccountname><telno01></telno01><buysanadno></buysanadno><voucherno>378</voucherno><salername></salername><complimentserialno></complimentserialno><extendedserialno></extendedserialno><gcounter>0</gcounter><s_prodate></s_prodate><m_prodate>1900/01/01</m_prodate><s_buydate></s_buydate><m_buydate>1900/01/01</m_buydate><s_insdate></s_insdate><m_insdate>1900/01/01</m_insdate><s_gbegdate></s_gbegdate><m_gbegdate>1900/01/01</m_gbegdate><statename></statename><cityname></cityname><address></address><serialdes></serialdes><gauranteeco>خدمات طلايي پويا</gauranteeco><prcode>PR00000001</prcode><gcounter1>0</gcounter1><gauranteedes></gauranteedes><lastCounter>0</lastCounter><HasLastServiceFetch>false</HasLastServiceFetch><mode>sn</mode>

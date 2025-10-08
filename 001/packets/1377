@@ -1,0 +1,66 @@
+POST /website/form/mail.mail HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/shop/90-282?attrib=286-10&attrib=286-11#attr=","/shop/90-282?attrib=286-10&attrib=286-11#attr=420,422,423,707,427,428,426,748,356","/-3","/contactus-thank-you","/","/-5","/http:/service.sinour.ir/Consoles/Recommend","/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2","/blog/5/114","/blog/6","/blog","/about-us","/contactus"]
+Content-Length: 137942
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryh2BWkevhpkJVSkuw
+Accept: */*
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://sinour.ir
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/contactus
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="ÙØ§Ù Ø´ÙØ§"
+
+aa
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="phone"
+
+123456
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="email_from"
+
+linkos@gmail.com
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="company"
+
+qq
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="subject"
+
+aa
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="Ø³ÙØ§Ù Ø´ÙØ§"
+
+aaa
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="email_to"
+
+info@sinour.ir
+------WebKitFormBoundaryh2BWkevhpkJVSkuw
+Content-Disposition: form-data; name="attachment_ids[0][0]"; filename="_2bae3945-c386-457f-869b-03e0faf4f482.jfif"
+Content-Type: image/jpeg
+
+ÿØÿë3JP,
+
+
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 11:35:51 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 11
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 11:35:51 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+{"id": 349}
+

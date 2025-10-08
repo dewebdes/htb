@@ -1,0 +1,51 @@
+GET /website_sale_stock/static/src/xml/website_sale_stock_product_availability.xml HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296"]
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept: _/_
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:03:43 GMT
+Content-Type: application/xml
+Etag: W/"wzsdm-1653570804-1312-2284196276"
+Cache-Control: max-age=604800, public
+Expires: Wed, 15 Oct 2025 10:03:43 GMT
+Last-Modified: Thu, 26 May 2022 13:13:24 GMT
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<templates>
+    <t t-name="website_sale_stock.product_availability">
+        <t t-if="product_type == 'product'">
+            <!-- show out_of_stock_message whatever the show_availability - pde's spec-->
+            <div id="out_of_stock_message" t-if="free_qty lte 0 and !cart_qty" t-attf-class="availability_message_#{product_template}">
+                <t t-if='has_out_of_stock_message' t-out='out_of_stock_message'/>
+                <t t-elif="!allow_out_of_stock_order">Out of Stock</t>
+            </div>
+            <div id="threshold_message" t-elif="show_availability and free_qty lte available_threshold" t-attf-class="availability_message_#{product_template}">
+                Only <t t-esc='free_qty'/> <t t-esc="uom_name" /> left in stock.
+            </div>
+
+            <div t-if="!allow_out_of_stock_order and show_availability and cart_qty" t-attf-class="availability_message_#{product_template} text-warning mt8">
+                <t t-if='!free_qty'>
+                    You already added all the available product in your cart.
+                </t>
+                <t t-else=''>
+                    You already added <t t-esc="cart_qty" /> <t t-esc="uom_name" /> in your cart.
+                </t>
+            </div>
+        </t>
+    </t>
+
+</templates>

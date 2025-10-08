@@ -1,0 +1,24 @@
+GET /WebResource.axd?d=JCZcNmLvcqsaWkF0zagXLOew-_YE7gxEVLBXtLPeeRPFa7C6sRhVT6BABrTeDO7_vuTpE0ju72bZOfXtI6gXE9m76jB8JiuFxcWoNLunmYV66hyW7npS9H82IY6NbCNF9szrYxC-mAkJ0SD_T1kQzA2&t=638452599560910146 HTTP/1.1
+Host: service.sinour.ir
+Accept-Language: en-US
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://service.sinour.ir/Consoles/VirtualReception/
+Accept-Encoding: gzip, deflate, br
+Cookie: ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z
+Connection: keep-alive
+
+
+HTTP/1.1 200 OK
+Cache-Control: public
+Content-Type: text/html
+Expires: Wed, 07 Oct 2026 17:42:29 GMT
+Last-Modified: Tue, 05 Mar 2024 14:55:56 GMT
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 08 Oct 2025 11:42:00 GMT
+Content-Length: 76784
+
+ÿþ<

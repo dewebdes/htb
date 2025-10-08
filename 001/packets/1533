@@ -1,0 +1,23 @@
+GET / Consoles / ReceptionPoint / FirstEnt / Resource.ashx ? query = mexaLertkN % 2b6smTwdbhJzw % 3d % 3d & b=& t=3 & wgCode=& pageLoad=partial & rnd=5213484929352978 HTTP / 1.1
+Host: service.sinour.ir
+Accept - Language: en - US
+User - Agent: Mozilla / 5.0(Windows NT 10.0; Win64; x64) AppleWebKit / 537.36(KHTML, like Gecko) Chrome / 126.0.6478.127 Safari / 537.36
+Accept: */*
+Referer: http://service.sinour.ir/Consoles/VirtualReception/
+Accept-Encoding: gzip, deflate, br
+Cookie: ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z
+Connection: keep-alive
+
+
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/plain; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 08 Oct 2025 11:41:44 GMT
+Content-Length: 54
+
+<error></error><item>يخچال فريزر 3070</item>

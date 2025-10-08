@@ -1,0 +1,32 @@
+POST /ajax_cart_sucess_data HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc"]
+Content-Length: 102
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Content-Type: application/json
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://sinour.ir
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/shop/category/5?category=5&search=&attrib=162-12&attrib=163-14&attrib=164-92&attrib=165-78&attrib=166-93&attrib=167-25&attrib=168-112&attrib=161-122
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"jsonrpc":"2.0","method":"call","params":{"product_id":"296","product_product":"192"},"id":118907934}
+
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:44:52 GMT
+Content-Type: application/json
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:44:52 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+{"jsonrpc": "2.0", "id": 118907934, "result": "<div class=\"ajax_cart_success_content d-flex align-content-center flex-wrap\">\n            <section id=\"product_detail\" class=\"container-fluid py-2 o_not_editable oe_website_sale \">\n                <div class=\"row\">\n                    <input type=\"hidden\" class=\"cart_qty\" value=\"2\"/>\n                    <div class=\"product-name-container\" id=\"product_details\">\n                        <h1 itemprop=\"name\" class=\"te_product_name\">\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0648\u06cc\u06a9\u062a\u0648\u0631</h1>\n                    </div>\n                    <div class=\"shopping-line\">\n                        <span>\u0634\u0645\u0627 \u0645\u062d\u0635\u0648\u0644</span>\n                        <spant class=\"te_product_name\">\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0648\u06cc\u06a9\u062a\u0648\u0631</spant>\n                        \u0631\u0627 \u0628\u0647 \u06a9\u0627\u0631\u062a \u062e\u0631\u06cc\u062f \u062e\u0648\u062f \u0627\u0641\u0632\u0648\u062f\u06cc\u062f\n                        <a type=\"button\" href=\"/shop/cart\">\u06a9\u0627\u0631\u062a \u062e\u0631\u06cc\u062f</a>\n                    </div>\n                    <div class=\"product-image-container\">\n                        <span class=\"new_span d-flex h-100 justify-content-center align-items-center\">\n                            <img class=\"img img-fluid\" alt=\"\u062a\u0635\u0648\u06cc\u0631 \u0645\u062d\u0635\u0648\u0644\" src=\"/web/image/product.product/192/image_256\" loading=\"lazy\"/>\n                        </span>\n                    </div>\n                    <div class=\"ajax-sucess-bottom\">\n                        <div class=\"te_cart_btn\">\n                            <a role=\"button\" class=\"btn btn-secondary o_not_editable mb32 d-xl-inline-block ajax-sucess-continue te_theme_button\">\n                                <span class=\"\">\u0627\u062f\u0627\u0645\u0647 \u062e\u0631\u06cc\u062f</span>\n                            </a>\n                            <a role=\"button\" class=\"btn btn-primary float-right o_not_editable d-xl-inline-block ajax-sucess-checkout te_theme_button\" href=\"/shop/checkout?express=1\">\n                                <span class=\"\">\u0641\u0631\u0622\u06cc\u0646\u062f \u067e\u0631\u062f\u0627\u062e\u062a</span>\n                                <span class=\"fa fa-chevron-right\"></span>\n                            </a>\n                        </div>\n                    </div>\n                </div>\n            </section>\n        </div>"}
+

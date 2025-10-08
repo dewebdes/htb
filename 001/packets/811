@@ -1,0 +1,37 @@
+POST /shop/address HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc","/shop/compare?products=192,253","/shop/payment","/shop/checkout","/shop/address"]
+Content-Length: 301
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Origin: https://sinour.ir
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/shop/address
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
+name=linkos+kali&email=linkoskali%40gmail.com&phone=123456&company_name=qq&vat=qq&street=qq&street2=111&city=%D8%AA%D9%87%D8%B1%D8%A7%D9%86&zip=1111&country_id=266&state_id=&csrf_token=8950381e6fbf5a0e969670218bf3d89c720a6b87o1791456771&submitted=1&partner_id=949&callback=&field_required=phone%2Cname
+
+
+HTTP/2 303 See Other
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:54:20 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 235
+Location: http://sinour.ir/shop/checkout
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:54:20 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>Redirecting...</title>
+<h1>Redirecting...</h1>
+<p>You should be redirected automatically to target URL: <a href="/shop/checkout">/shop/checkout</a>.  If not click the link.
+

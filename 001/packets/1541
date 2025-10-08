@@ -1,0 +1,676 @@
+POST
+/login.aspx?ReturnUrl=%2fConsoles%2fAccountant%2f&&e=2Jm3vLq4CW4rc%2bPbTsnRsHgwEXY2wR2pESfuEcndfSPFcaUgvooYo750En4aoJHFqwbXRsQxGOqdgzl48WVAttq%2fwn4rreNgL6Kxb1SdGXsaifyM9c5YBomD5gGMEWTwEmWC%2bcD%2bl0zQ5AVcykaFMyrB%2bmfEMw61O9R5cnlKe1j4PUcXLtN83a%2b0hYbqrtG9fJOcAdnyngJ4VxsU8aMyRYvlWlTcDACD
+HTTP/1.1 Host: service.sinour.ir Content-Length: 7738 Cache-Control: max-age=0
+Accept-Language: en-US Upgrade-Insecure-Requests: 1 Origin:
+http://service.sinour.ir Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+like Gecko) Chrome/126.0.6478.127 Safari/537.36 Accept:
+text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer:
+http://service.sinour.ir/login.aspx?ReturnUrl=%2fConsoles%2fAccountant%2f&&e=2Jm3vLq4CW4rc%2bPbTsnRsHgwEXY2wR2pESfuEcndfSPFcaUgvooYo750En4aoJHFqwbXRsQxGOqdgzl48WVAttq%2fwn4rreNgL6Kxb1SdGXsaifyM9c5YBomD5gGMEWTwEmWC%2bcD%2bl0zQ5AVcykaFMyrB%2bmfEMw61O9R5cnlKe1j4PUcXLtN83a%2b0hYbqrtG9fJOcAdnyngJ4VxsU8aMyRYvlWlTcDACD
+Accept-Encoding: gzip, deflate, br Cookie:
+ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z Connection: keep-alive
+__LASTFOCUS=&__EVENTTARGET=&__EVENTARGUMENT=&__VIEWSTATE=%2FwEPDwUKMjA0ODA3NTU5Mw8UKwACFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCAWcWAmYPZBYEZg9kFgJmD2QWAmYPFgIeBFRleHQFTQ0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IiIgLz4NCjxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSIiIC8%2BZAIBD2QWDgIBD2QWAgIBD2QWBgIBDxYCHwEFjwE8Y2VudGVyPjxpbWcgc3JjPScvVXBsb2FkZWRGaWxlcy9TZXR0aW5ncy9fOTAwNmNhZjZjNDcyNDViMmFjOWFlYThlNGM4MWNmOWUuanBnJyAgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgY2xhc3M9J2ltZy1yZXNwb25zaXZlJyAvPjwvY2VudGVyPmQCAw8WAh8BBSvYs9in2LLZhdin2YYg2K7Yr9mF2KfYqiDYt9mE2KfZitmKINm%2B2YjZitinZAIFDxYCHwEFV9iz2KfZhdin2YbZhyDYrNin2YXYuSDYp9i32YTYp9i5INix2LPYp9mG2Yog2LPYp9iy2YXYp9mGINiu2K%2FZhdin2Kog2LfZhNin2YrZiiDZvtmI2YrYp2QCAg9kFgICAQ9kFghmDw8WAh8BBSjZhdi02KrYsduMINiu2K%2FZhdin2KogLNiu2YjYtCDYotmF2K%2FbjNivZGQCAQ8WAh4HVmlzaWJsZWgWAmYPFgIfAQUBMGQCAw8PFgIfAQUKMTQwNC8wNy8xNmRkAgQPDxYGHglMb2dpblRleHQFGNmI2LHZiNivINio2Ycg2LPbjNiz2KrZhR4KTG9nb3V0VGV4dAUI2K7YsdmI2KweDUxvZ291dFBhZ2VVcmwFAS9kZAIDD2QWAgIBD2QWCGYPFgIfAmhkAgEPZBYCAgEPFgIfAQWJCjx1bCBpZD0ibmF2LW9uZSIgY2xhc3M9ImRyb3BtZW51Ij4gPGxpPjxhIGhyZWY9IiMiPiDYp9i32YTYp9i5INix2LPYp9mG24wg2YfYpzwvYT48dWwgY2xhc3M9InN1Yl9tZW51Ij48bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL0FjY291bnRhbnQvIj7Yp9i32YTYp9i5INix2LPYp9mG24wg2LXZiNix2Kog2YfYp9uMINmF2KfZhNuMPC9hPiA8L3VsPjwvbGk%2BPGxpPjxhIGhyZWY9IiI%2B2YTYrNiz2KrbjNqpINin2YbYqNin2LE8L2E%2BPHVsIGNsYXNzPSJzdWJfbWVudSI%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9XYXJlLyI%2B2KvYqNiqINiz2YHYp9ix2LQg2YLYt9i52KfYqjwvYT48L2xpPjxsaT48YSBocmVmPSIvQ29uc29sZXMvV2FyZS9Gb2xsb3dVcC8iPtm%2B24zar9uM2LHbjCDYs9mB2KfYsdi0INmC2LfYudin2Ko8L2E%2BPC9saT4gPC91bD48L2xpPjxsaT48YSBocmVmPSIiPti02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K%2FYp9iqPC9hPjx1bCBjbGFzcz0ic3ViX21lbnUiPjxsaT48YSBocmVmPSIvQ29uc29sZXMvUmVjb21tZW5kLyI%2B2KvYqNiqINm%2B2LHZiNmG2K%2FZhyDYtNqp2KfbjNin2Kog2Ygg2KfZhtiq2YLYp9iv2KfYqjwvYT48L2xpPjxsaT48YSBocmVmPSIvQ29uc29sZXMvUmVjb21tZW5kL0ZvbGxvd1VwLyI%2B2b7bjNqv24zYsduMINm%2B2LHZiNmG2K%2FZhyDYtNqp2KfbjNin2Kog2Ygg2KfZhtiq2YLYp9iv2KfYqjwvYT48L2xpPiA8L3VsPjwvbGk%2BPGxpPjxhIGhyZWY9IiI%2B2K%2FYsdiu2YjYp9iz2Kog2LPYsdmI24zYsyDYotmG2YTYp9uM2YY8L2E%2BPHVsIGNsYXNzPSJzdWJfbWVudSI%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uLyI%2B2KvYqNiqINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uL0ZvbGxvd1VwLyI%2B2b7bjNqv24zYsduMINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk%2BIDwvdWw%2BPC9saT48bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL1RlY2huaWNhbERvY3VtZW50c0FyY2hpdmUvIj7Yotix2LTbjNmIINio2K7YtNmG2KfZhdmHINmH2KfbjCDYotmF2YjYsti024wg2Ygg2YHZhtuMPC9hPjwvbGk%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNlcHRpb25Qb2ludC8iPtir2KjYqiDZiCDYqNin24zar9in2YbbjCDYs9ix2YjbjNizINmH2Kc8L2E%2BPC9saT48bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL1N1cnZleS8iPtmG2LjYsdiz2YbYrNuMINmF2LTYqtix24zYp9mGPC9hPjwvbGk%2BIDwvdWw%2BZAICDxYCHwJoZAIDDxYCHwEF4g08bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL0FjY291bnRhbnQvIj7Yp9i32YTYp9i5INix2LPYp9mG24wg2LXZiNix2Kog2YfYp9uMINmF2KfZhNuMPC9hPjwvbGk%2BPGxpIHJvbGU9InNlcGFyYXRvciIgY2xhc3M9ImRpdmlkZXIiPjwvbGk%2BPGxpIGNsYXNzPSJkcm9wZG93biI%2BPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj7ZhNis2LPYqtuM2qkg2KfZhtio2KfYsTxzcGFuIGNsYXNzPSJjYXJldCI%2BPC9zcGFuPjwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPjxsaT48YSBocmVmPSIvQ29uc29sZXMvV2FyZS8iPtir2KjYqiDYs9mB2KfYsdi0INmC2LfYudin2Ko8L2E%2BPC9saT48bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL1dhcmUvRm9sbG93VXAvIj7ZvtuM2q%2FbjNix24wg2LPZgdin2LHYtCDZgti32LnYp9iqPC9hPjwvbGk%2BIDwvdWw%2BPC9saT48bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI%2BPC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPti02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K%2FYp9iqPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4%2BPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNvbW1lbmQvIj7Yq9io2Kog2b7YsdmI2YbYr9mHINi02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K%2FYp9iqPC9hPjwvbGk%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNvbW1lbmQvRm9sbG93VXAvIj7ZvtuM2q%2FbjNix24wg2b7YsdmI2YbYr9mHINi02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K%2FYp9iqPC9hPjwvbGk%2BIDwvdWw%2BPC9saT48bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI%2BPC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPtiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4%2BPC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uLyI%2B2KvYqNiqINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uL0ZvbGxvd1VwLyI%2B2b7bjNqv24zYsduMINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk%2BIDwvdWw%2BPC9saT48bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL1RlY2huaWNhbERvY3VtZW50c0FyY2hpdmUvIj7Yotix2LTbjNmIINio2K7YtNmG2KfZhdmHINmH2KfbjCDYotmF2YjYsti024wg2Ygg2YHZhtuMPC9hPjwvbGk%2BPGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNlcHRpb25Qb2ludC8iPtir2KjYqiDZiCDYqNin24zar9in2YbbjCDYs9ix2YjbjNizINmH2Kc8L2E%2BPC9saT48bGk%2BPGEgaHJlZj0iL0NvbnNvbGVzL1N1cnZleS8iPtmG2LjYsdiz2YbYrNuMINmF2LTYqtix24zYp9mGPC9hPjwvbGk%2BZAIED2QWBAIDD2QWBAICD2QWCAIBDxYCHwJoZAIFD2QWAgIBDxAPFgIeB0NoZWNrZWRnZGRkZAIHDxYCHwJoZAILD2QWAgIBDxAPFgIfAQUi2LPYp9iy2YXYp9mGINmF2LHaqdiy24wg2K7Yr9mF2KfYqmRkZGQCBA8WAh8CZxYEAgEPDxYCHwEFFdqp2K8g2YbZhdin24zZhtiv2q%2FbjGRkAhMPDxYCHwEFGNmI2LHZiNivINio2Ycg2LPbjNiz2KrZhWRkAhEPZBYCAgQPFgIeBGhyZWYFRX4vQ29uc29sZXMvTWVldGluZ0ZvcnVtL1JlZ2lzdGVyLmFzcHg%2FUmV0dXJuVXJsPS9Db25zb2xlcy9BY2NvdW50YW50L2QCBQ9kFgQCAQ9kFgJmDxYCHwEFHDxkaXYgY2xhc3M9J3JvdycgPg0KPC9kaXY%2BDQpkAgMPZBYCZg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmDxUCQNin24zZhtiz2KrYp9qv2LHYp9mFINiz2KfYstmF2KfZhiDYrtiv2YXYp9iqINi32YTYp9uM24wg2b7ZiNuM2KffAjxkaXY%2BPGZvbnQgc2l6ZT0iMiIgc3R5bGU9IiIgY29sb3I9IiMwMDAwMDAiPti12YHYrdmHINix2LPZhduMINin24zZhtiz2KrYp9qv2LHYp9mFINiz2KfYstmF2KfZhiDYrtiv2YXYp9iqINi32YTYp9uM24wg2b7ZiNuM2Kc8L2ZvbnQ%2BPC9kaXY%2BPGRpdj48Zm9udCBzaXplPSIyIiBzdHlsZT0iIiBjb2xvcj0iIzAwMDBmZiI%2BPGIgc3R5bGU9IiI%2Bd3d3Lmluc3RhZ3JhbS5jb20vPC9iPjwvZm9udD48L2Rpdj48ZGl2PjxiIHN0eWxlPSJjb2xvcjogcmdiKDAsIDAsIDI1NSk7IGZvbnQtc2l6ZTogc21hbGw7IGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OyI%2BR29sZGVuX1NlcnZpY2VzX1BvdXlhPC9iPjwvZGl2PmQCBg9kFgICAQ9kFgICAQ8WAh8BBVfYqtmF2KfZhduMINit2YLZiNmCINin24zZhiDYs9in24zYqiDZhdiq2LnZhNmCINio2Ycg2LPZitmG2YjYsSDZvtmI2YrYpyDZhduMINio2KfYtNivIC5kAggPFgIfAmhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYKBS1jdGwwMCRTdGF0dXNCYXIkU3RhdHVzQmFyMSRMb2dpblN0YXR1czEkY3RsMDEFLWN0bDAwJFN0YXR1c0JhciRTdGF0dXNCYXIxJExvZ2luU3RhdHVzMSRjdGwwMwUnY3RsMDAkUGFnZUNvbnRlbnQkTG9naW4xJHJhZGlvX0JfQWNjZXNzBSdjdGwwMCRQYWdlQ29udGVudCRMb2dpbjEkcmFkaW9fQl9BY2Nlc3MFJ2N0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRyYWRpb19DX0FjY2VzcwUnY3RsMDAkUGFnZUNvbnRlbnQkTG9naW4xJHJhZGlvX0RfQWNjZXNzBSdjdGwwMCRQYWdlQ29udGVudCRMb2dpbjEkcmFkaW9fRF9BY2Nlc3MFJWN0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRyYWRpb0NlbnRyYWwFJWN0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRyYWRpb0NlbnRyYWwFJGN0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRjaGtSZW1lbWJlcms19hGYr4mY3RiA9fmkVl4x5wQNgKug%2BBkOMPhqkoC3&ctl00%24PageContent%24Login1%24loginstatus=radio_C_Access&ctl00%24PageContent%24Login1%24txtUserName=aaa&ctl00%24PageContent%24Login1%24txtPassword=aaaa&ctl00%24PageContent%24Login1%24chkRemember=on&ctl00%24PageContent%24Login1%24btnLogin=%D9%88%D8%B1%D9%88%D8%AF+%D8%A8%D9%87+%D8%B3%DB%8C%D8%B3%D8%AA%D9%85&ctl00%24PageContent%24hfSecureCode=&ctl00%24PageContent%24hfcode=&ctl00%24PageContent%24hfname=&ctl00%24PageContent%24hfusername=&ctl00%24PageContent%24hfPermision=&ctl00%24PageContent%24hfBranchTechPCode=&ctl00%24hfwebgozarcode=&__VIEWSTATEGENERATOR=C2EE9ABB&__SCROLLPOSITIONX=0&__SCROLLPOSITIONY=166.39999389648438
+HTTP/1.1 200 OK Cache-Control: private Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0 X-AspNet-Version: 4.0.30319 X-Powered-By: ASP.NET
+Date: Wed, 08 Oct 2025 11:45:49 GMT Content-Length: 22529
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><link
+  href="/Styles/Content/bootstrap-rtl.min.css"
+  rel="stylesheet"
+  media="screen"
+/><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head id="ctl00_Head1">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+    <script>
+      var rootFolder = "/";
+      var isOpera = navigator.userAgent.indexOf("Opera") > -1;
+      var isIE = navigator.userAgent.indexOf("MSIE") > 1 && !isOpera;
+      var isMoz = navigator.userAgent.indexOf("Mozilla/5.") == 0 && !isOpera;
+    </script>
+    <link rel="SHORTCUT ICON" href="favicon.ico" />
+    <meta http-equiv="content-type" content="text-html; charset=utf-8" />
+    <meta name="author" content="WWW.Sorooshan.Com" />
+    <script src="/Js/main.js?r=1"></script>
+    <link
+      id="pagestyle"
+      href="/Styles/Main.css?r=12"
+      rel="Stylesheet"
+      type="text/css"
+    />
+    <link
+      id="pagestyle"
+      href="/Styles/fa-IR/Alignment.css"
+      rel="Stylesheet"
+      type="text/css"
+    />
+    <link
+      id="pagestyle"
+      href="/Styles/styleMenu.css"
+      rel="Stylesheet"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="Styles/styleMenu-Hor-WithSubMenu.css"
+      type="text/css"
+      media="screen, projection"
+    />
+    <link
+      id="pagestyle"
+      href="/Js/Scripts/jquery-confirm.css"
+      rel="Stylesheet"
+      type="text/css"
+    />
+    <script
+      type="text/javascript"
+      src="/Js/Scripts/jquery-1.9.1.min.js"
+    ></script>
+    <script type="text/javascript" src="/Js/Scripts/jquery-confirm.js"></script>
+    <script src="/Js/Scripts/bootstrap-rtl.min.js"></script>
+    <title>ورود به سیستم</title>
+  </head>
+  <body dir="RTL">
+    <form
+      name="aspnetForm"
+      method="post"
+      action="./login.aspx?ReturnUrl=%2fConsoles%2fAccountant%2f&amp;&amp;e=2Jm3vLq4CW4rc%2bPbTsnRsHgwEXY2wR2pESfuEcndfSPFcaUgvooYo750En4aoJHFqwbXRsQxGOqdgzl48WVAttq%2fwn4rreNgL6Kxb1SdGXsaifyM9c5YBomD5gGMEWTwEmWC%2bcD%2bl0zQ5AVcykaFMyrB%2bmfEMw61O9R5cnlKe1j4PUcXLtN83a%2b0hYbqrtG9fJOcAdnyngJ4VxsU8aMyRYvlWlTcDACD"
+      id="aspnetForm"
+    >
+      <div>
+        <input
+          type="hidden"
+          name="__EVENTTARGET"
+          id="__EVENTTARGET"
+          value=""
+        /><input
+          type="hidden"
+          name="__EVENTARGUMENT"
+          id="__EVENTARGUMENT"
+          value=""
+        /><input
+          type="hidden"
+          name="__LASTFOCUS"
+          id="__LASTFOCUS"
+          value=""
+        /><input
+          type="hidden"
+          name="__VIEWSTATE"
+          id="__VIEWSTATE"
+          value="/wEPDwUKMjA0ODA3NTU5Mw8UKwACFgIeE1ZhbGlkYXRlUmVxdWVzdE1vZGUCAWgWAmYPZBYEZg9kFgJmD2QWAmYPFgIeBFRleHQFTQ0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IiIgLz4NCjxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSIiIC8+ZAIBD2QWDgIBD2QWAgIBD2QWBgIBDxYCHwEFjwE8Y2VudGVyPjxpbWcgc3JjPScvVXBsb2FkZWRGaWxlcy9TZXR0aW5ncy9fOTAwNmNhZjZjNDcyNDViMmFjOWFlYThlNGM4MWNmOWUuanBnJyAgd2lkdGg9JzEwMCUnIGhlaWdodD0nMTAwJScgY2xhc3M9J2ltZy1yZXNwb25zaXZlJyAvPjwvY2VudGVyPmQCAw8WAh8BBSvYs9in2LLZhdin2YYg2K7Yr9mF2KfYqiDYt9mE2KfZitmKINm+2YjZitinZAIFDxYCHwEFV9iz2KfZhdin2YbZhyDYrNin2YXYuSDYp9i32YTYp9i5INix2LPYp9mG2Yog2LPYp9iy2YXYp9mGINiu2K/Zhdin2Kog2LfZhNin2YrZiiDZvtmI2YrYp2QCAg9kFgICAQ9kFghmDw8WAh8BBSjZhdi02KrYsduMINiu2K/Zhdin2KogLNiu2YjYtCDYotmF2K/bjNivZGQCAQ8WAh4HVmlzaWJsZWgWAmYPFgIfAQUBMGQCAw8PFgIfAQUKMTQwNC8wNy8xNmRkAgQPDxYGHglMb2dpblRleHQFGNmI2LHZiNivINio2Ycg2LPbjNiz2KrZhR4KTG9nb3V0VGV4dAUI2K7YsdmI2KweDUxvZ291dFBhZ2VVcmwFAS9kZAIDD2QWAgIBD2QWCGYPFgIfAmhkAgEPZBYCAgEPFgIfAQWJCjx1bCBpZD0ibmF2LW9uZSIgY2xhc3M9ImRyb3BtZW51Ij4gPGxpPjxhIGhyZWY9IiMiPiDYp9i32YTYp9i5INix2LPYp9mG24wg2YfYpzwvYT48dWwgY2xhc3M9InN1Yl9tZW51Ij48bGk+PGEgaHJlZj0iL0NvbnNvbGVzL0FjY291bnRhbnQvIj7Yp9i32YTYp9i5INix2LPYp9mG24wg2LXZiNix2Kog2YfYp9uMINmF2KfZhNuMPC9hPiA8L3VsPjwvbGk+PGxpPjxhIGhyZWY9IiI+2YTYrNiz2KrbjNqpINin2YbYqNin2LE8L2E+PHVsIGNsYXNzPSJzdWJfbWVudSI+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9XYXJlLyI+2KvYqNiqINiz2YHYp9ix2LQg2YLYt9i52KfYqjwvYT48L2xpPjxsaT48YSBocmVmPSIvQ29uc29sZXMvV2FyZS9Gb2xsb3dVcC8iPtm+24zar9uM2LHbjCDYs9mB2KfYsdi0INmC2LfYudin2Ko8L2E+PC9saT4gPC91bD48L2xpPjxsaT48YSBocmVmPSIiPti02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K/Yp9iqPC9hPjx1bCBjbGFzcz0ic3ViX21lbnUiPjxsaT48YSBocmVmPSIvQ29uc29sZXMvUmVjb21tZW5kLyI+2KvYqNiqINm+2LHZiNmG2K/ZhyDYtNqp2KfbjNin2Kog2Ygg2KfZhtiq2YLYp9iv2KfYqjwvYT48L2xpPjxsaT48YSBocmVmPSIvQ29uc29sZXMvUmVjb21tZW5kL0ZvbGxvd1VwLyI+2b7bjNqv24zYsduMINm+2LHZiNmG2K/ZhyDYtNqp2KfbjNin2Kog2Ygg2KfZhtiq2YLYp9iv2KfYqjwvYT48L2xpPiA8L3VsPjwvbGk+PGxpPjxhIGhyZWY9IiI+2K/Ysdiu2YjYp9iz2Kog2LPYsdmI24zYsyDYotmG2YTYp9uM2YY8L2E+PHVsIGNsYXNzPSJzdWJfbWVudSI+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uLyI+2KvYqNiqINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uL0ZvbGxvd1VwLyI+2b7bjNqv24zYsduMINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk+IDwvdWw+PC9saT48bGk+PGEgaHJlZj0iL0NvbnNvbGVzL1RlY2huaWNhbERvY3VtZW50c0FyY2hpdmUvIj7Yotix2LTbjNmIINio2K7YtNmG2KfZhdmHINmH2KfbjCDYotmF2YjYsti024wg2Ygg2YHZhtuMPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNlcHRpb25Qb2ludC8iPtir2KjYqiDZiCDYqNin24zar9in2YbbjCDYs9ix2YjbjNizINmH2Kc8L2E+PC9saT48bGk+PGEgaHJlZj0iL0NvbnNvbGVzL1N1cnZleS8iPtmG2LjYsdiz2YbYrNuMINmF2LTYqtix24zYp9mGPC9hPjwvbGk+IDwvdWw+ZAICDxYCHwJoZAIDDxYCHwEF4g08bGk+PGEgaHJlZj0iL0NvbnNvbGVzL0FjY291bnRhbnQvIj7Yp9i32YTYp9i5INix2LPYp9mG24wg2LXZiNix2Kog2YfYp9uMINmF2KfZhNuMPC9hPjwvbGk+PGxpIHJvbGU9InNlcGFyYXRvciIgY2xhc3M9ImRpdmlkZXIiPjwvbGk+PGxpIGNsYXNzPSJkcm9wZG93biI+PGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj7ZhNis2LPYqtuM2qkg2KfZhtio2KfYsTxzcGFuIGNsYXNzPSJjYXJldCI+PC9zcGFuPjwvYT48dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPjxsaT48YSBocmVmPSIvQ29uc29sZXMvV2FyZS8iPtir2KjYqiDYs9mB2KfYsdi0INmC2LfYudin2Ko8L2E+PC9saT48bGk+PGEgaHJlZj0iL0NvbnNvbGVzL1dhcmUvRm9sbG93VXAvIj7ZvtuM2q/bjNix24wg2LPZgdin2LHYtCDZgti32LnYp9iqPC9hPjwvbGk+IDwvdWw+PC9saT48bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPti02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K/Yp9iqPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNvbW1lbmQvIj7Yq9io2Kog2b7YsdmI2YbYr9mHINi02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K/Yp9iqPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNvbW1lbmQvRm9sbG93VXAvIj7ZvtuM2q/bjNix24wg2b7YsdmI2YbYr9mHINi02qnYp9uM2KfYqiDZiCDYp9mG2KrZgtin2K/Yp9iqPC9hPjwvbGk+IDwvdWw+PC9saT48bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT48bGkgY2xhc3M9ImRyb3Bkb3duIj48YSBocmVmPSIjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIiBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiPtiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9hPjx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uLyI+2KvYqNiqINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9WaXJ0dWFsUmVjZXB0aW9uL0ZvbGxvd1VwLyI+2b7bjNqv24zYsduMINiv2LHYrtmI2KfYs9iqINiz2LHZiNuM2LMg2KLZhtmE2KfbjNmGPC9hPjwvbGk+IDwvdWw+PC9saT48bGk+PGEgaHJlZj0iL0NvbnNvbGVzL1RlY2huaWNhbERvY3VtZW50c0FyY2hpdmUvIj7Yotix2LTbjNmIINio2K7YtNmG2KfZhdmHINmH2KfbjCDYotmF2YjYsti024wg2Ygg2YHZhtuMPC9hPjwvbGk+PGxpPjxhIGhyZWY9Ii9Db25zb2xlcy9SZWNlcHRpb25Qb2ludC8iPtir2KjYqiDZiCDYqNin24zar9in2YbbjCDYs9ix2YjbjNizINmH2Kc8L2E+PC9saT48bGk+PGEgaHJlZj0iL0NvbnNvbGVzL1N1cnZleS8iPtmG2LjYsdiz2YbYrNuMINmF2LTYqtix24zYp9mGPC9hPjwvbGk+ZAIED2QWBAIDD2QWBAICD2QWCAIBDxYCHwJoZAIFD2QWAgIBDxAPFgIeB0NoZWNrZWRnZGRkZAIHDxYCHwJoZAILD2QWAgIBDxAPFgIfAQUi2LPYp9iy2YXYp9mGINmF2LHaqdiy24wg2K7Yr9mF2KfYqmRkZGQCBA8WAh8CZxYGAgEPDxYCHwEFFdqp2K8g2YbZhdin24zZhtiv2q/bjGRkAgMPDxYCHwEFA2FhYWRkAhMPDxYEHwEFGNmI2LHZiNivINio2Ycg2LPbjNiz2KrZhR4PVmFsaWRhdGlvbkdyb3VwBQVMb2dpbmRkAhEPZBYCAgQPFgIeBGhyZWYFRX4vQ29uc29sZXMvTWVldGluZ0ZvcnVtL1JlZ2lzdGVyLmFzcHg/UmV0dXJuVXJsPS9Db25zb2xlcy9BY2NvdW50YW50L2QCBQ9kFgQCAQ9kFgJmDxYCHwEFHDxkaXYgY2xhc3M9J3JvdycgPg0KPC9kaXY+DQpkAgMPZBYCZg8WAh4LXyFJdGVtQ291bnQCARYCZg9kFgJmDxUCQNin24zZhtiz2KrYp9qv2LHYp9mFINiz2KfYstmF2KfZhiDYrtiv2YXYp9iqINi32YTYp9uM24wg2b7ZiNuM2KffAjxkaXY+PGZvbnQgc2l6ZT0iMiIgc3R5bGU9IiIgY29sb3I9IiMwMDAwMDAiPti12YHYrdmHINix2LPZhduMINin24zZhtiz2KrYp9qv2LHYp9mFINiz2KfYstmF2KfZhiDYrtiv2YXYp9iqINi32YTYp9uM24wg2b7ZiNuM2Kc8L2ZvbnQ+PC9kaXY+PGRpdj48Zm9udCBzaXplPSIyIiBzdHlsZT0iIiBjb2xvcj0iIzAwMDBmZiI+PGIgc3R5bGU9IiI+d3d3Lmluc3RhZ3JhbS5jb20vPC9iPjwvZm9udD48L2Rpdj48ZGl2PjxiIHN0eWxlPSJjb2xvcjogcmdiKDAsIDAsIDI1NSk7IGZvbnQtc2l6ZTogc21hbGw7IGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OyI+R29sZGVuX1NlcnZpY2VzX1BvdXlhPC9iPjwvZGl2PmQCBg9kFgICAQ9kFgICAQ8WAh8BBVfYqtmF2KfZhduMINit2YLZiNmCINin24zZhiDYs9in24zYqiDZhdiq2LnZhNmCINio2Ycg2LPZitmG2YjYsSDZvtmI2YrYpyDZhduMINio2KfYtNivIC5kAggPFgIfAmhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYKBS1jdGwwMCRTdGF0dXNCYXIkU3RhdHVzQmFyMSRMb2dpblN0YXR1czEkY3RsMDEFLWN0bDAwJFN0YXR1c0JhciRTdGF0dXNCYXIxJExvZ2luU3RhdHVzMSRjdGwwMwUnY3RsMDAkUGFnZUNvbnRlbnQkTG9naW4xJHJhZGlvX0JfQWNjZXNzBSdjdGwwMCRQYWdlQ29udGVudCRMb2dpbjEkcmFkaW9fQl9BY2Nlc3MFJ2N0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRyYWRpb19DX0FjY2VzcwUnY3RsMDAkUGFnZUNvbnRlbnQkTG9naW4xJHJhZGlvX0RfQWNjZXNzBSdjdGwwMCRQYWdlQ29udGVudCRMb2dpbjEkcmFkaW9fRF9BY2Nlc3MFJWN0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRyYWRpb0NlbnRyYWwFJWN0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRyYWRpb0NlbnRyYWwFJGN0bDAwJFBhZ2VDb250ZW50JExvZ2luMSRjaGtSZW1lbWJlctYbt+nqL4EUeIF55/+wOzv7a9tabL/R2TQo3nzWFSGg"
+        />
+      </div>
+      <script type="text/javascript">
+        //<![CDATA[
+        var theForm = document.forms["aspnetForm"];
+        if (!theForm) {
+          theForm = document.aspnetForm;
+        }
+        function __doPostBack(eventTarget, eventArgument) {
+          if (!theForm.onsubmit || theForm.onsubmit() != false) {
+            theForm.__EVENTTARGET.value = eventTarget;
+            theForm.__EVENTARGUMENT.value = eventArgument;
+            theForm.submit();
+          }
+        }
+        //]]>
+      </script>
+      <script
+        src="/WebResource.axd?d=JeQyYmut3EHYp_ynapvIrFecbw2k_LW_6suGkGR709shU4HYXslNtmAttJXeV25l6pBPQmVOL20HW6XJMLmZIHFe7uRyKLb3xcFSP0VBA-o1&amp;t=638460364960000000"
+        type="text/javascript"
+      ></script>
+      <div class="PAGE">
+        <div class="hotLinks" style="display: none">Add To Favorates</div>
+        <div class="logo" id="logoTopContent">
+          <div class="logo1">
+            <center>
+              <img
+                src="/UploadedFiles/Settings/_9006caf6c47245b2ac9aea8e4c81cf9e.jpg"
+                width="100%"
+                height="100%"
+                class="img-responsive"
+              />
+            </center>
+            سازمان خدمات طلايي پويا
+          </div>
+          <div class="logo2">
+            سامانه جامع اطلاع رساني سازمان خدمات طلايي پويا
+          </div>
+        </div>
+        <div class="statusBar">
+          <table width="100%">
+            <tr>
+              <td style="width: 70px">
+                <a href="javascript:window.parent.location.href='/';"
+                  >صفحه اصلی</a
+                >
+              </td>
+              <td>
+                <span
+                  id="ctl00_StatusBar_StatusBar1_lblLoginName"
+                  class="yourAreHere"
+                  >مشتری خدمات ,خوش آمدید</span
+                >.
+              </td>
+              <td>
+                <span class="yourAreHere"
+                  >شما اینجا هستید: <b>ورود به سیستم</b></span
+                >
+              </td>
+              <td style="width: 80px">
+                <span
+                  id="ctl00_StatusBar_StatusBar1_lblToday"
+                  class="yourAreHere"
+                  >1404/07/16</span
+                >
+              </td>
+              <td style="width: 90px; text-align: center">
+                <a
+                  id="ctl00_StatusBar_StatusBar1_LoginStatus1"
+                  href="javascript:__doPostBack(&#39;ctl00$StatusBar$StatusBar1$LoginStatus1$ctl02&#39;,&#39;&#39;)"
+                  >ورود به سیستم</a
+                >
+              </td>
+            </tr>
+          </table>
+          <script type="text/javascript">
+            function formChangePass() {
+              createModalPopup(
+                "/Consoles/ReceptionPoint/UserConfig/frmChangePassword.aspx",
+                "title",
+                350,
+                210,
+                1,
+                1,
+                1
+              );
+            }
+          </script>
+        </div>
+        <div class="pageContent" id="__pageContent">
+          <div class="hidden-xs">
+            <div id="ctl00_Menu_ConsolesList1_divmenuHorizantal">
+              <ul id="nav-one" class="dropmenu">
+                <li>
+                  <a href="#"> اطلاع رسانی ها</a>
+                  <ul class="sub_menu">
+                    <li>
+                      <a href="/Consoles/Accountant/"
+                        >اطلاع رسانی صورت های مالی</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="">لجستیک انبار</a>
+                  <ul class="sub_menu">
+                    <li><a href="/Consoles/Ware/">ثبت سفارش قطعات</a></li>
+                    <li>
+                      <a href="/Consoles/Ware/FollowUp/">پیگیری سفارش قطعات</a>
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="">شکایات و انتقادات</a>
+                  <ul class="sub_menu">
+                    <li>
+                      <a href="/Consoles/Recommend/"
+                        >ثبت پرونده شکایات و انتقادات</a
+                      >
+                    </li>
+                    <li>
+                      <a href="/Consoles/Recommend/FollowUp/"
+                        >پیگیری پرونده شکایات و انتقادات</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="">درخواست سرویس آنلاین</a>
+                  <ul class="sub_menu">
+                    <li>
+                      <a href="/Consoles/VirtualReception/"
+                        >ثبت درخواست سرویس آنلاین</a
+                      >
+                    </li>
+                    <li>
+                      <a href="/Consoles/VirtualReception/FollowUp/"
+                        >پیگیری درخواست سرویس آنلاین</a
+                      >
+                    </li>
+                  </ul>
+                </li>
+                <li>
+                  <a href="/Consoles/TechnicalDocumentsArchive/"
+                    >آرشیو بخشنامه های آموزشی و فنی</a
+                  >
+                </li>
+                <li>
+                  <a href="/Consoles/ReceptionPoint/">ثبت و بایگانی سرویس ها</a>
+                </li>
+                <li><a href="/Consoles/Survey/">نظرسنجی مشتریان</a></li>
+              </ul>
+              <br /><br />
+            </div>
+          </div>
+          <div class="hidden-xs"></div>
+          <div class="visible-xs">
+            <nav class="navbar navbar-default navbar-fixed">
+              <div class="container">
+                <div class="navbar-header">
+                  <button
+                    type="button"
+                    class="navbar-toggle collapsed"
+                    data-toggle="collapse"
+                    data-target="#navbar"
+                    aria-expanded="false"
+                    aria-controls="navbar"
+                  >
+                    <span class="sr-only">منوهای سایت</span
+                    ><span class="icon-bar"></span><span class="icon-bar"></span
+                    ><span class="icon-bar"></span></button
+                  ><a class="navbar-brand" href="/">صفحه اصلی</a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                  <ul class="nav navbar-nav">
+                    <li>
+                      <a href="/Consoles/Accountant/"
+                        >اطلاع رسانی صورت های مالی</a
+                      >
+                    </li>
+                    <li role="separator" class="divider"></li>
+                    <li class="dropdown">
+                      <a
+                        href="#"
+                        class="dropdown-toggle"
+                        data-toggle="dropdown"
+                        role="button"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                        >لجستیک انبار<span class="caret"></span
+                      ></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/Consoles/Ware/">ثبت سفارش قطعات</a></li>
+                        <li>
+                          <a href="/Consoles/Ware/FollowUp/"
+                            >پیگیری سفارش قطعات</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                    <li class="dropdown">
+                      <a
+                        href="#"
+                        class="dropdown-toggle"
+                        data-toggle="dropdown"
+                        role="button"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                        >شکایات و انتقادات<span class="caret"></span
+                      ></a>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="/Consoles/Recommend/"
+                            >ثبت پرونده شکایات و انتقادات</a
+                          >
+                        </li>
+                        <li>
+                          <a href="/Consoles/Recommend/FollowUp/"
+                            >پیگیری پرونده شکایات و انتقادات</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li role="separator" class="divider"></li>
+                    <li class="dropdown">
+                      <a
+                        href="#"
+                        class="dropdown-toggle"
+                        data-toggle="dropdown"
+                        role="button"
+                        aria-haspopup="true"
+                        aria-expanded="false"
+                        >درخواست سرویس آنلاین<span class="caret"></span
+                      ></a>
+                      <ul class="dropdown-menu">
+                        <li>
+                          <a href="/Consoles/VirtualReception/"
+                            >ثبت درخواست سرویس آنلاین</a
+                          >
+                        </li>
+                        <li>
+                          <a href="/Consoles/VirtualReception/FollowUp/"
+                            >پیگیری درخواست سرویس آنلاین</a
+                          >
+                        </li>
+                      </ul>
+                    </li>
+                    <li>
+                      <a href="/Consoles/TechnicalDocumentsArchive/"
+                        >آرشیو بخشنامه های آموزشی و فنی</a
+                      >
+                    </li>
+                    <li>
+                      <a href="/Consoles/ReceptionPoint/"
+                        >ثبت و بایگانی سرویس ها</a
+                      >
+                    </li>
+                    <li><a href="/Consoles/Survey/">نظرسنجی مشتریان</a></li>
+                  </ul>
+                </div>
+                <!--/.nav-collapse -->
+              </div>
+            </nav>
+          </div>
+          <link href="Styles/iziToast.min.css" rel="stylesheet" />
+          <script src="Js/iziToast.min.js" type="text/javascript"></script>
+          <div class="pagePanel"></div>
+          <div class="pagePanel">
+            <div class="panellogin">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-0">&nbsp;</div>
+                  <div class="col-lg-8 col-md-8 col-sm-7 col-xs-11">
+                    <div class="panel panel-default">
+                      <div class="panel-heading blueBg">
+                        تعیین نحوه ورود به سیستم
+                      </div>
+                      <div class="panel-body">
+                        <div
+                          id="ctl00_PageContent_Login1_divAccess"
+                          class="col-lg-3 col-md-4 col-sm-12 col-xs-12"
+                        >
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <br /><br />
+                          </div>
+                          <div
+                            id="ctl00_PageContent_Login1_divB"
+                            class="margin1000"
+                          >
+                            <input
+                              id="ctl00_PageContent_Login1_radio_B_Access"
+                              type="radio"
+                              name="ctl00$PageContent$Login1$loginstatus"
+                              value="radio_B_Access"
+                              onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$PageContent$Login1$radio_B_Access\&#39;,\&#39;\&#39;)&#39;, 0)"
+                            /><label
+                              for="ctl00_PageContent_Login1_radio_B_Access"
+                              >مشترک خدمات</label
+                            >
+                          </div>
+                          <div
+                            id="ctl00_PageContent_Login1_divC"
+                            class="margin1000"
+                          >
+                            <input
+                              id="ctl00_PageContent_Login1_radio_C_Access"
+                              type="radio"
+                              name="ctl00$PageContent$Login1$loginstatus"
+                              value="radio_C_Access"
+                              checked="checked"
+                            /><label
+                              for="ctl00_PageContent_Login1_radio_C_Access"
+                              >نماینده خدمات</label
+                            >
+                          </div>
+                          <div
+                            id="ctl00_PageContent_Login1_divD"
+                            class="margin1000"
+                          >
+                            <input
+                              id="ctl00_PageContent_Login1_radio_D_Access"
+                              type="radio"
+                              name="ctl00$PageContent$Login1$loginstatus"
+                              value="radio_D_Access"
+                              onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$PageContent$Login1$radio_D_Access\&#39;,\&#39;\&#39;)&#39;, 0)"
+                            /><label
+                              for="ctl00_PageContent_Login1_radio_D_Access"
+                              >شعبه</label
+                            >
+                          </div>
+                          <div
+                            id="ctl00_PageContent_Login1_divCentral"
+                            class="margin1000"
+                          >
+                            <input
+                              id="ctl00_PageContent_Login1_radioCentral"
+                              type="radio"
+                              name="ctl00$PageContent$Login1$loginstatus"
+                              value="radioCentral"
+                              onclick="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$PageContent$Login1$radioCentral\&#39;,\&#39;\&#39;)&#39;, 0)"
+                            /><label for="ctl00_PageContent_Login1_radioCentral"
+                              >سازمان مرکزی خدمات</label
+                            >
+                          </div>
+                        </div>
+                        <div class="col-lg-1 col-md-1 visible-lg visible-md">
+                          <hr class="message-inner-separator" />
+                        </div>
+                        <div
+                          id="ctl00_PageContent_Login1_divLogin"
+                          class="col-lg-5 col-md-7 col-sm-12 col-xs-12"
+                        >
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            &nbsp;
+                          </div>
+                          <span
+                            id="ctl00_PageContent_Login1_lblUserNameCaption"
+                            class="col-lg-12 col-md-12 col-sm-12 col-xs-12"
+                            >کد نمایندگی</span
+                          >
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input
+                              name="ctl00$PageContent$Login1$txtUserName"
+                              type="text"
+                              value="aaa"
+                              maxlength="20"
+                              id="ctl00_PageContent_Login1_txtUserName"
+                              class="form-control widthXs LoginInput"
+                              placeholder="نام کاربری"
+                            />
+                          </div>
+                          <span
+                            id="ctl00_PageContent_Login1_lblPasswordCaption"
+                            class="col-lg-12 col-md-12 col-sm-12 col-xs-12"
+                            >کلمه عبور</span
+                          >
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input
+                              name="ctl00$PageContent$Login1$txtPassword"
+                              type="password"
+                              maxlength="20"
+                              id="ctl00_PageContent_Login1_txtPassword"
+                              class="form-control widthXs LoginInput"
+                              placeholder="کلمه عبور"
+                            />
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            &nbsp;
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input
+                              id="ctl00_PageContent_Login1_chkRemember"
+                              type="checkbox"
+                              name="ctl00$PageContent$Login1$chkRemember"
+                              checked="checked"
+                            /><label for="ctl00_PageContent_Login1_chkRemember"
+                              >مرا به خاطر بسپار</label
+                            >
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            &nbsp;
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <input
+                              type="submit"
+                              name="ctl00$PageContent$Login1$btnLogin"
+                              value="ورود به سیستم"
+                              id="ctl00_PageContent_Login1_btnLogin"
+                              class="col-lg-12 col-md-12 col-sm-12 col-xs-12 btn marginTop3 input-lg btnLogin widthXs LoginInput"
+                            />
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            &nbsp;
+                          </div>
+                          <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                            <span
+                              id="ctl00_PageContent_Login1_lblError"
+                              class="error"
+                              ><div class="alert alert-danger">
+                                ورود با سطح دسترسی نماینده خدمات برای شما مقدور
+                                نمی باشد
+                              </div></span
+                            >
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-2 col-md-2 col-sm-2 col-xs-1">&nbsp;</div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="pagePanel">
+            <input
+              type="hidden"
+              name="ctl00$PageContent$hfSecureCode"
+              id="ctl00_PageContent_hfSecureCode"
+            /><input
+              type="hidden"
+              name="ctl00$PageContent$hfcode"
+              id="ctl00_PageContent_hfcode"
+            /><input
+              type="hidden"
+              name="ctl00$PageContent$hfname"
+              id="ctl00_PageContent_hfname"
+            /><input
+              type="hidden"
+              name="ctl00$PageContent$hfusername"
+              id="ctl00_PageContent_hfusername"
+            /><input
+              type="hidden"
+              name="ctl00$PageContent$hfPermision"
+              id="ctl00_PageContent_hfPermision"
+              value="false"
+            /><input
+              type="hidden"
+              name="ctl00$PageContent$hfBranchTechPCode"
+              id="ctl00_PageContent_hfBranchTechPCode"
+            />
+            <div style="width: 30%"></div>
+          </div>
+          <script type="text/javascript">
+            jQuery(function ($) {
+              $('[data-toggle="tooltip"]').tooltip();
+            });
+          </script>
+          <div class="messagesPanel">
+            <div class="messagePanel">
+              <div class="messageHeader">سر تیتر اخبار</div>
+              <div class="messageBody">
+                <marquee
+                  height="150px"
+                  scrollamount="1"
+                  direction="up"
+                  onmouseover="this.stop();"
+                  onmouseout="this.start();"
+                  ><div class="row"></div
+                ></marquee>
+              </div>
+            </div>
+            <div class="messagePanel">
+              <div class="messageHeader">
+                اینستاگرام سازمان خدمات طلایی پویا
+              </div>
+              <div class="messageBody">
+                <div>
+                  <font size="2" style="" color="#000000"
+                    >صفحه رسمی اینستاگرام سازمان خدمات طلایی پویا</font
+                  >
+                </div>
+                <div>
+                  <font size="2" style="" color="#0000ff"
+                    ><b style="">www.instagram.com/</b></font
+                  >
+                </div>
+                <div>
+                  <b
+                    style="
+                      color: rgb(0, 0, 255);
+                      font-size: small;
+                      background-color: transparent;
+                    "
+                    >Golden_Services_Pouya</b
+                  >
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div style="clear: both"></div>
+        <div class="footer">
+          <div class="footer1">&nbsp;</div>
+          <div class="footer2">
+            <br />تمامی حقوق این سایت متعلق به سينور پويا می باشد .
+          </div>
+        </div>
+        <center style="clear: both">
+          Powered By
+          <a href="http://www.sorooshan.com/" target="blank">Sorooshan Co</a>
+        </center>
+        <input
+          type="hidden"
+          name="ctl00$hfwebgozarcode"
+          id="ctl00_hfwebgozarcode"
+        />
+      </div>
+      <div>
+        <input
+          type="hidden"
+          name="__VIEWSTATEGENERATOR"
+          id="__VIEWSTATEGENERATOR"
+          value="C2EE9ABB"
+        /><input
+          type="hidden"
+          name="__SCROLLPOSITIONX"
+          id="__SCROLLPOSITIONX"
+          value="0"
+        /><input
+          type="hidden"
+          name="__SCROLLPOSITIONY"
+          id="__SCROLLPOSITIONY"
+          value="166"
+        />
+      </div>
+      <script type="text/javascript">
+        //<![CDATA[
+        theForm.oldSubmit = theForm.submit;
+        theForm.submit = WebForm_SaveScrollPositionSubmit;
+        theForm.oldOnSubmit = theForm.onsubmit;
+        theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+        theForm.oldOnLoad = window.onload;
+        window.onload = WebForm_RestoreScrollPosition;
+        //]]>
+      </script>
+    </form>
+  </body>
+  <script type="text/javascript" src="/Js/Scripts/vehicleService.js"></script>
+  <script type="text/javascript" src="/Js/Scripts/jquery.translate.js"></script>
+  <script
+    type="text/javascript"
+    src="/UploadedFiles/Translate/translateDic.js"
+  ></script>
+  <script type="text/javascript">
+    var translator = $("body").translate({ lang: "fa", t: dict }); //use persian
+    //translator.lang("pt"); //change to Portuguese
+    $.getJSON("/UploadedFiles/setting.json", function (data) {
+      if (data.vehicleService == "true") {
+        $("body").vehicleService();
+      }
+    });
+  </script>
+</html>

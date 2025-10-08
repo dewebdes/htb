@@ -1,0 +1,1251 @@
+GET /shop/checkout HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc","/shop/compare?products=192,253","/shop/payment"]
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/shop/payment
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
+
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:52:21 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:52:21 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+<!DOCTYPE html>
+        <html lang="fa-IR" data-website-id="1" data-main-object="ir.ui.view(1636,)" data-oe-company-name="سینور پویا" data-add2cart-redirect="1">
+    <head>
+                <meta charset="utf-8"/>
+                <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+            <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="generator" content="Rstco"/>
+                        <meta property="og:type" content="website"/>
+                        <meta property="og:title" content="checkout | سینور پویا"/>
+                        <meta property="og:site_name" content="سینور پویا"/>
+                        <meta property="og:url" content="http://sinour.ir/shop/checkout"/>
+                        <meta property="og:image" content="http://sinour.ir/web/image/website/1/social_default_image?unique=311f639"/>
+                    <meta name="twitter:card" content="summary_large_image"/>
+                    <meta name="twitter:title" content="checkout | سینور پویا"/>
+                    <meta name="twitter:image" content="http://sinour.ir/web/image/website/1/social_default_image?unique=311f639"/>
+        <link rel="canonical" href="https://sinour.ir/shop/checkout"/>
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
+                <title> فروشگاه - تسویه حساب | سینور پویا </title>
+                <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=311f639"/>
+            <link rel="preload" href="/web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" crossorigin=""/>
+            <link type="text/css" rel="stylesheet" href="/web/assets/5766-4410457/1/rtl/web.assets_common.min.css" data-asset-bundle="web.assets_common" data-asset-version="4410457"/>
+            <link type="text/css" rel="stylesheet" href="/web/assets/4565-8625fe9/1/rtl/web.assets_frontend.min.css" data-asset-bundle="web.assets_frontend" data-asset-version="8625fe9"/>
+                <script id="web.layout.rstcoscript" type="text/javascript">
+                    var rstco = {
+                        csrf_token: "20ca049847958b9ff84c3130e050135687fa694eo1791456741",
+                        debug: "",
+                    };
+                </script>
+            <script type="text/javascript">
+                rstco.__session_info__ = {"is_admin": false, "is_system": false, "is_website_user": false, "user_id": 843, "is_frontend": true, "profile_session": null, "profile_collectors": null, "profile_params": null, "show_effect": "True", "server_version": "15.0+e-20220418", "server_version_info": [15, 0, 0, "final", 0, "e"], "translationURL": "/website/translations", "cache_hashes": {"translations": "cac3b76e3f930f868c0b2ee3dd9a2ab04b6740f9"}, "geoip_country_code": null};
+                if (!/(^|;\s)tz=/.test(document.cookie)) {
+                    const userTZ = Intl.DateTimeFormat().resolvedOptions().timeZone;
+                    document.cookie = `tz=${userTZ}; path=/`;
+                }
+            </script>
+            <script defer="defer" type="text/javascript" src="/web/assets/2402-db4ff21/1/web.assets_common_minimal.min.js" data-asset-bundle="web.assets_common_minimal" data-asset-version="db4ff21"></script>
+            <script defer="defer" type="text/javascript" src="/web/assets/2403-b3735e1/1/web.assets_frontend_minimal.min.js" data-asset-bundle="web.assets_frontend_minimal" data-asset-version="b3735e1"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/assets/4567-923c8ea/1/web.assets_common_lazy.min.js" data-asset-bundle="web.assets_common_lazy" data-asset-version="923c8ea"></script>
+            <script defer="defer" type="text/javascript" data-src="/web/assets/4568-499aeca/1/web.assets_frontend_lazy.min.js" data-asset-bundle="web.assets_frontend_lazy" data-asset-version="499aeca"></script>
+        <meta name="samandehi" content="430895004"/>
+        </head>
+            <body class="">
+        <div id="wrapwrap" class=" o_rtl   ">
+            <div class="te_auto_play_value d-none">
+                <span>True</span>
+            </div>
+        <header id="top" data-anchor="true" data-name="Header" class="  o_hoverable_dropdown o_header_disappears">
+            <div class="te_header_before_overlay">
+                <div class="te_header_style_2_main">
+                    <div class="te_header_top_text_mobile d-none">
+  <section class="te_s_header_offer_text">
+    <span></span>
+    <br/>
+  </section>
+                    </div>
+                    <div class="te_ftr_before_bg">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="te_offer_left col-lg-7">
+                                    <section>
+                                        <p></p>
+                                        <section>
+<p></p>
+<div class="s_rating row te_s_header_offer_text" data-name="Rating">
+            <p>041-31461</p><ul>
+                <li>
+                    <section>|</section>
+                </li> info@sinour.ir
+                <li>
+                    <section>|</section>
+                </li> #
+            </ul>
+            </div>
+</section>
+                                    </section>
+                                </div>
+                                <div class="te_login_right col-lg-5">
+                                    <div class="text-right">
+                                        <div class="te_header_lang" style="text-align:left">
+                                            <div class="px-2">
+        <div class="js_language_selector ml-2 dropdown">
+            <button type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true" class="btn btn-sm btn-outline-secondary border-0 dropdown-toggle ">
+    <img class="o_lang_flag" src="/base/static/img/country_flags/ir.png?height=25" loading="lazy"/>
+    <span class="align-middle">فارسی</span>
+            <span class="lang_btn_name">فارسی</span>
+            <span class="lang_btn_code" style="display:none">fa</span>
+        </button>
+            <div role="menu" class="dropdown-menu ">
+                    <a href="/ar/shop/checkout" class="dropdown-item js_change_lang " data-url_code="ar">
+    <img class="o_lang_flag" src="/web/image/res.lang/3/flag_image?height=25" loading="lazy"/>
+            <span class="lang_btn_code" style="display:none">ar</span>
+        <span> الْعَرَبيّة</span>
+                    </a>
+                    <a href="/ru/shop/checkout" class="dropdown-item js_change_lang " data-url_code="ru">
+    <img class="o_lang_flag" src="/base/static/img/country_flags/ru.png?height=25" loading="lazy"/>
+            <span class="lang_btn_code" style="display:none">ru</span>
+        <span> русский язык</span>
+                    </a>
+                    <a href="/shop/checkout" class="dropdown-item js_change_lang active" data-url_code="fa">
+    <img class="o_lang_flag" src="/base/static/img/country_flags/ir.png?height=25" loading="lazy"/>
+            <span class="lang_btn_code" style="display:none">fa</span>
+        <span>فارسی</span>
+                    </a>
+            </div>
+        </div>
+                                            </div>
+                                        </div>
+                                        <div class="px-2">
+                                            <div class="dropdown te_user_account">
+                                                <a href="#" class="dropdown-toggle btn btn-link" data-toggle="dropdown">
+                                                    <span class="te_user_account_name">linkos kali</span>
+                                                    <span class="te_user_account_icon">
+                                                        <i class="fa fa-user" aria-hidden="true"></i>
+                                                    </span>
+                                                </a>
+                                                <div class="dropdown-menu dropdown-menu-right js_usermenu" role="menu">
+                                                    <a role="menuitem" class="dropdown-item te_user_name">
+                                                        <span class="te_user_drop_item">Hello,
+                                                            <span class="te_user_drop_item">linkos kali</span>
+                                                        </span>
+                                                    </a>
+                                                    <a href="/my/home" role="menuitem" class="dropdown-item">
+                                                        <span class="fa fa-user"></span>
+                                                        <span class="te_user_drop_item">My Account</span>
+                                                    </a>
+                                                    <a href="/my/orders" role="menuitem" class="dropdown-item">
+                                                        <span class="fa fa-pie-chart"></span>
+                                                        <span class="te_user_drop_item">My orders</span>
+                                                    </a>
+                                                    <a id="o_logout" class="dropdown-item" role="menuitem" href="/web/session/logout?redirect=/">
+                                                        <span class="fa fa-sign-out"></span>
+                                                        <span class="te_user_drop_item">Logout</span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="container te_header_style_2_inner">
+                        <div class="row py-3 align-items-center">
+                            <div class="col-lg-6">
+                                <a href="/" class="navbar-brand logo te_header_before_logo">
+                                    <span role="img" aria-label="Logo of سینور پویا" title="سینور پویا"><img src="/web/image/website/1/logo/%D8%B3%DB%8C%D9%86%D9%88%D8%B1%20%D9%BE%D9%88%DB%8C%D8%A7?unique=311f639" class="img img-fluid" alt="سینور پویا" loading="lazy"/></span>
+                                </a>
+                            </div>
+                            <div class="col-lg-6 te_header_style_2_right">
+                                <div class="te_header_search">
+                                    <div class="te_srch_icon_header">
+                                        <a href="#" class="">
+                                            <i class="fa fa-search te_srch_icon"></i>
+                                            <i class="fa fa-times te_srch_close"></i>
+                                        </a>
+                                    </div>
+                                    <div class="te_search_popover" tabindex="-1">
+    <form method="get" data-snippet="s_searchbar_input" class="o_searchbar_form o_wait_lazy_js s_searchbar_input " action="/website/search">
+            <div role="search" class="input-group ">
+        <input type="search" name="search" class="search-query form-control oe_search_box None" placeholder="جستجو..." data-search-type="all" data-limit="5" data-display-image="true" data-display-description="true" data-display-extra-link="true" data-display-detail="true" data-order-by="name asc"/>
+        <div class="input-group-append">
+            <button type="submit" aria-label="جستجو" title="جستجو" class="btn oe_search_button btn-primary"><i class="fa fa-search"></i>
+        </button>
+        </div>
+    </div>
+            <input name="order" type="hidden" class="o_search_order_by" value="name asc"/>
+        </form>
+                                    </div>
+                                </div>
+                                <div class="te_bar_icon">
+                                    <a href="#" class="">
+                                        <i class="fa fa-sliders"></i>
+                                    </a>
+                                </div>
+        <li class="nav-item divider d-none"></li> 
+        <li class="o_wsale_my_cart align-self-md-start  nav-item te_cart_icon_head">
+            <a href="/shop/cart" class="nav-link">
+                <i class="fa fa-shopping-cart"></i>
+                <sup class="my_cart_quantity badge badge-primary" data-order-id="984">2</sup>
+            </a>
+        </li>
+        <li class="o_wsale_my_wish  nav-item o_wsale_my_wish_hide_empty te_wish_icon_head">
+            <a href="/shop/wishlist" class="nav-link">
+                <i class="fa fa-1x fa-heart"></i>
+                <sup class="my_wish_quantity o_animate_blink badge badge-primary">1</sup>
+            </a>
+        </li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <nav data-name="Navbar" class="navbar navbar-expand-md o_colored_level navbar-light o_cc te_header_navbar">
+                <div id="top_menu_container" class="container justify-content-start justify-content-lg-between">
+    <a href="/" class="navbar-brand logo ">
+            <span role="img" aria-label="Logo of سینور پویا" title="سینور پویا"><img src="/web/image/website/1/logo/%D8%B3%DB%8C%D9%86%D9%88%D8%B1%20%D9%BE%D9%88%DB%8C%D8%A7?unique=311f639" class="img img-fluid" alt="سینور پویا" loading="lazy"/></span>
+        </a>
+                    <button type="button" class="navbar-toggler ept_mobi_toggler collapsed ml-auto" data-toggle="collapse" data-target="#top_menu_collapse">
+                        <span class="navbar-toggler-icon">
+                            <div class="inner_bar"></div>
+                        </span>
+                    </button>
+                    <div id="top_menu_collapse" class="collapse navbar-collapse">
+        <div class="o_offcanvas_menu_backdrop" data-toggle="collapse" data-target="#top_menu_collapse" aria-label="پیکربندی"></div>
+    <ul id="top_menu" class="nav navbar-nav o_menu_loading mx-auto">
+        <li class="o_offcanvas_menu_toggler order-first navbar-toggler text-right border-0 o_not_editable">
+            <a href="#top_menu_collapse" class="nav-link px-3" data-toggle="collapse">
+                <span class="fa-2x">×</span>
+            </a>
+        </li>
+    <li class="nav-item 
+            ">
+        <a role="menuitem" href="/" class="nav-link ">
+        <span class="">صفحه اصلی</span>
+        </a>
+        </li>
+    <li class="nav-item dropdown  position-static">
+        <a data-toggle="dropdown" class="nav-link dropdown-toggle o_mega_menu_toggle" href="/shop/submenu.url or &#39;#&#39;">
+                <span class="">محصولات</span>
+        </a>
+        <div data-name="Mega Menu" class="dropdown-menu o_mega_menu o_no_parent_editor dropdown-menu-right"><section class="te_menu_style_5 s_mega_menu_style_5 container-fluid py-3 px-3 te_catalog_menu_main te_img_hide_small_devices o_colored_level" style="background-image: none;">
+            <div class="row" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip530881">
+                <section class="col-lg-2 col-md-4 col-sm-6 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip559776">
+                    <div class="img_container" bis_skin_checked="1">
+                        <div class="te_border_div" bis_skin_checked="1">
+                            <img class="img img-responsive img-fluid d-block mx-auto o_visible lazyload o_animating" src="/web/image/4778-8a0d5a27/Victor.jpg" loading="lazy" data-original-title="" title="ویکتور" aria-describedby="tooltip126947" data-src="" style="animation-play-state: paused; visibility: visible; width: 50% !important;" data-original-id="4777" data-original-src="/web/image/4777-dc47c529/Victor.jpg" data-mimetype="image/jpeg" data-resize-width="NaN" alt="ویکتور">
+                        </div>
+                    </div>
+                    <section class="py-lg-3 py-md-3 py-sm-3 py-2 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip783042">
+                        <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip36576">
+                            <a class="te_menu_ctg_main" href="/shop?search=&amp;attrib=161-122" data-original-title="" title="">سری ویکتور</a>
+                        </div>
+                        <ul data-original-title="" title="" aria-describedby="tooltip152676">
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip227182">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/294" data-original-title="" title="">آبسردکن دار</a>
+                                    </div>
+                                </li>
+                            </section><section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip227182">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/363" data-original-title="" title="">درب بار شیشه ای</a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip754576">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/284?attrib=161-1" data-original-title="" title="">هوم بار</a>
+                                    </div>
+                                </li>
+                            </section><section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip754576">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop" data-original-title="" title=""><h6><font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip297719">همه محصولات</font><br></h6></a>
+                                    </div>
+                                </li>
+                            </section><section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip754576">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop" data-original-title="" title=""></a><h6 data-original-title="" title="" aria-describedby="tooltip240400"><a class="te_menu_sub nav-link m-0" href="https://gunay-co.com/Catalog%20Sinour.pdf" data-original-title="" title=""><font class="text-o-color-1" data-original-title="" title="" aria-describedby="tooltip297719">کاتالوگ محصولات</font></a><br></h6>
+                                    </div>
+                                </li>
+                            </section>
+                        </ul>
+                    </section>
+                </section>
+                <section class="col-lg-2 col-md-4 col-sm-6 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip724723">
+                    <div class="img_container" bis_skin_checked="1">
+                        <div class="te_border_div" bis_skin_checked="1">
+                            <img class="img img-responsive img-fluid d-block mx-auto lazyload o_visible o_animated o_animating" alt="" src="/web/image/4786-54d6f5a0/Kara.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip399614" data-src="" style="animation-play-state: running; visibility: visible; width: 50% !important;" data-original-id="4785" data-original-src="/web/image/4785-8b7fedd2/Kara.jpg" data-mimetype="image/jpeg" data-resize-width="NaN">
+                        </div>
+                    </div>
+                    <section class="py-lg-3 py-md-3 py-sm-3 py-2 o_colored_level" style="background-image: none;">
+                        <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip75569">
+                            <a class="te_menu_ctg_main" href="/shop?search=&amp;attrib=161-121" data-original-title="" title="">سری کارا</a>
+                        </div>
+                        <ul data-original-title="" title="" aria-describedby="tooltip220559">
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip775492">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/365" data-original-title="" title="">آبسردکن دار</a>
+                                    </div>
+                                </li>
+                            </section><section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip775492">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/295" data-original-title="" title="">درب بار شیشه ای</a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip416408">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/280"><br></a>
+                                    </div>
+                                </li>
+                            </section>
+                        </ul>
+                    </section>
+                </section>
+                <section class="col-lg-2 col-md-4 col-sm-6 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip146196">
+                    <div class="img_container" bis_skin_checked="1">
+                        <div class="te_border_div" bis_skin_checked="1">
+                            <img class="img img-responsive img-fluid d-block mx-auto lazyload o_visible o_animating" alt="" src="/web/image/4789-5921a14c/Royal-Deniz.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip619002" data-src="" style="animation-play-state: paused; visibility: visible;" data-original-id="4788" data-original-src="/web/image/4788-966837cd/Royal-Deniz.jpg" data-mimetype="image/jpeg" data-resize-width="NaN">
+                        </div>
+                    </div>
+                    <section class="py-lg-3 py-md-3 py-sm-3 py-2 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip745177">
+                        <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip507123">
+                            <a class="te_menu_ctg_main" href="/shop?search=&amp;attrib=161-4" data-original-title="" title="">سری دنیز و رویال</a>
+                        </div>
+                        <ul>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip497719">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/296">آبسردکن دار دنیز</a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip497719">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/366" data-original-title="" title="">درب بار شیشه ای دنیز</a>
+                                    </div>
+                                </li>
+                            </section><section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip368689">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/281" data-original-title="" title="">یخچال فریزر 20 فوت رویال</a></div>
+                                </li>
+                            </section>
+                        </ul>
+                    </section>
+                </section>
+                <section class="col-lg-2 col-md-4 col-sm-6 o_colored_level" style="background-image: none;">
+                    <div class="img_container" bis_skin_checked="1">
+                        <div class="te_border_div" bis_skin_checked="1">
+                            <img class="img img-responsive img-fluid d-block mx-auto lazyload o_visible o_animating" alt="" src="/web/image/4801-fd78d6e0/Classic-Aramis.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip891178" data-src="" style="animation-play-state: paused; visibility: visible;" data-original-id="4793" data-original-src="/web/image/4793-3e14570a/Classic-Aramis.jpg" data-mimetype="image/jpeg" data-resize-width="150">
+                        </div>
+                    </div>
+                    <section class="py-lg-3 py-md-3 py-sm-3 py-2 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip484771">
+                        <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip193332">
+                            <a class="te_menu_ctg_main" href="/shop?search=&amp;attrib=161-5">سری آرامیس و کلاسیک</a>
+                        </div>
+                        <ul>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip203672">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/288" data-original-title="" title="">درب بار شیشه ای آرامیس</a>
+                                    </div>
+                                </li>
+                            </section><section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip924178">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/297" data-original-title="" title="">آبسردکن دار آرامیس</a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip233939">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/283">یخچال فریزر 16 فوت کلاسیک</a>
+                                    </div>
+                                </li>
+                            </section>
+                        </ul>
+                    </section>
+                </section>
+                <section class="col-lg-2 col-md-4 col-sm-6 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip479403">
+                    <div class="img_container" bis_skin_checked="1">
+                        <div class="te_border_div" bis_skin_checked="1">
+                            <img class="img img-responsive img-fluid d-block mx-auto lazyload o_visible o_animated o_animating" alt="" src="/web/image/4797-a353fc9d/Jenius-Island.jpg" loading="lazy" data-original-title="" title="" aria-describedby="tooltip919061" data-src="" style="animation-play-state: running; visibility: visible;" data-original-id="4795" data-original-src="/web/image/4795-a7341f3e/Jenius-Island.jpg" data-mimetype="image/jpeg" data-resize-width="NaN">
+                        </div>
+                    </div>
+                    <section class="py-lg-3 py-md-3 py-sm-3 py-2 o_colored_level" style="background-image: none;">
+                        <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip420089">
+                            <a class="te_menu_ctg_main" href="/shop?search=&amp;attrib=161-7">سری جنیوس و آیسلند</a>
+                        </div>
+                        <ul>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip437896">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/30-70-20-291">آبسردکن دار جنیوس</a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip34970">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/30-70-16-290">آبسردکن دار آیسلند</a>
+                                    </div>
+                                </li>
+                            </section>
+                        </ul>
+                    </section>
+                </section>
+                <section class="col-lg-2 col-md-4 col-sm-6 o_colored_level" style="background-image: none;">
+                    <div class="img_container" bis_skin_checked="1">
+                        <div class="te_border_div" bis_skin_checked="1">
+                            <img class="img img-responsive img-fluid d-block mx-auto lazyload o_visible o_animated o_animating" alt="" src="/web/image/1128-9270d7fa/290x210%20coypy.jpg?access_token=7426ed2b-dc2e-4b5a-b672-f953fdcf09b0" loading="lazy" data-original-id="1128" data-original-src="/web/image/1128-9270d7fa/290x210%20coypy.jpg" data-mimetype="image/jpeg" data-original-title="" title="" aria-describedby="tooltip325274" data-src="" style="animation-play-state: running; visibility: visible;">
+                        </div>
+                    </div>
+                    <section class="py-lg-3 py-md-3 py-sm-3 py-2 o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip436147">
+                        <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip2691">
+                            <a class="te_menu_ctg_main" href="/shop?search=&amp;attrib=161-6">سری هوم باکس</a>
+                        </div>
+                        <ul data-original-title="" title="" aria-describedby="tooltip473589">
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip517622">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/90-282?attrib=286-10&amp;attrib=286-11#attr=">فریزر صندوقی هوم باکس مدل 90<br></a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" data-original-title="" title="" aria-describedby="tooltip829076" bis_skin_checked="1">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/110-361?attrib=286-10&amp;attrib=286-11#attr=">فریزر صندوقی هوم باکس مدل 110<br></a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip813743">
+                                        <a class="te_menu_sub nav-link m-0" href="/shop/130-362?attrib=286-10&amp;attrib=286-11#attr=">فریزر صندوقی هوم باکس مدل 130<br></a>
+                                    </div>
+                                </li>
+                            </section>
+                            <section style="background-image: none;" class="o_colored_level">
+                                <li>
+                                    <div class="d-flex" bis_skin_checked="1" data-original-title="" title="" aria-describedby="tooltip362067">
+                                        <a class="te_menu_sub nav-link m-0" href="#">.</a>
+                                    </div>
+                                </li>
+                            </section>
+                        </ul>
+                    </section>
+                </section>
+            </div>
+        </section></div>
+    </li>
+    <li class="nav-item 
+            ">
+        <a role="menuitem" href="/shop" class="nav-link ">
+        <span class="">فروشگاه</span>
+        </a>
+        </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" class="nav-link dropdown-toggle " href="/shop/submenu.url or &#39;#&#39;">
+                <span class="">خدمات پس از فروش</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li class=" 
+            ">
+        <a role="menuitem" href="http://service.sinour.ir/Consoles/VirtualReception/" class="dropdown-item ">
+        <span class="">درخواست نصب و تعمیر</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/-3" class="dropdown-item ">
+        <span class="">ثبت شکایت</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/" class="dropdown-item ">
+        <span class="">ثبت گارانتی</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/-5" class="dropdown-item ">
+        <span class="">نظر سنجی مشتریان</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/http://service.sinour.ir/Consoles/Recommend/" class="dropdown-item ">
+        <span class="">انتقادات و پیشنهادات</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/blog/3" class="dropdown-item ">
+        <span class="">شرایط و ضوابط گارانتی</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="http://service.sinour.ir" class="dropdown-item ">
+        <span class="">پورتال نمایندگان</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/blog/6" class="dropdown-item ">
+        <span class="">همایش ها</span>
+        </a>
+        </li>
+        </ul>
+    </li>
+    <li class="nav-item te_highlighted_menu 
+            ">
+        <a role="menuitem" href="/blog" class="nav-link ">
+        <span class="te_highlighted_menu_span">مجله</span>
+        </a>
+        </li>
+    <li class="nav-item 
+            ">
+        <a role="menuitem" href="/about-us" class="nav-link ">
+        <span class="">درباره ما</span>
+        </a>
+        </li>
+    <li class="nav-item 
+            ">
+        <a role="menuitem" href="/contactus" class="nav-link ">
+        <span class="">تماس با ما</span>
+        </a>
+        </li>
+    <li class="nav-item dropdown  ">
+        <a data-toggle="dropdown" class="nav-link dropdown-toggle " href="/shop/submenu.url or &#39;#&#39;">
+                <span class="">همکاری با ما</span>
+        </a>
+        <ul class="dropdown-menu" role="menu">
+    <li class=" 
+            ">
+        <a role="menuitem" href="/contactus" class="dropdown-item ">
+        <span class="">فرصت های شغلی ( استخدام )</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/contractors" class="dropdown-item ">
+        <span class="">پیمانکاری پروژه ای ( اجرا، تعمیر، توسعه )</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/-5" class="dropdown-item ">
+        <span class="">نظر سنجی</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/suppliers" class="dropdown-item ">
+        <span class="">تامین کنندگان قطعات</span>
+        </a>
+        </li>
+    <li class=" 
+            ">
+        <a role="menuitem" href="/wholesaler" class="dropdown-item ">
+        <span class="">درخواست نمایندگی فروش</span>
+        </a>
+        </li>
+        </ul>
+    </li>
+                            <li class="o_wsale_my_wish nav-item o_wsale_my_wish_hide_empty te_wish_icon_head"></li>
+        <li class="o_offcanvas_logo_container order-last navbar-toggler py-4 order-1 mt-auto text-center border-0">
+            <a href="/" class="o_offcanvas_logo logo">
+            <span role="img" aria-label="Logo of سینور پویا" title="سینور پویا"><img src="/web/image/website/1/logo/%D8%B3%DB%8C%D9%86%D9%88%D8%B1%20%D9%BE%D9%88%DB%8C%D8%A7?unique=311f639" class="img img-fluid" style="max-width: 200px" alt="سینور پویا" loading="lazy"/></span>
+        </a>
+    </li>
+    </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+            <div class="te_vertical_menu">
+                <section>
+                    <a href="#" class="te_menu_btn_close">
+                        <i class="fa fa-times te_menu_icon_close"></i>
+                    </a>
+                </section>
+                <div>
+  <section class="s_rating menu_vertical_option">
+    <div class="te_side_bar">
+      <section style="background-image: none;" class="o_colored_level">
+      </section>
+      <section>
+        <div class="te_content_text">
+          <section>
+            <a class="te_ver_add_ept" href="tel: 04131461">
+              <span class="fa fa-phone"></span>
+              <span>04131461</span>
+            </a>
+          </section>
+          <section>
+            <a class="te_ver_add_ept" href="mailto: info@sinour.ir">
+              <span class="fa fa-envelope"></span>
+              <span>info@sinour.ir</span>
+            </a>
+          </section>
+          <section>
+            <p class="te_ver_add_ept">
+              <span class="fa fa-map-marker"></span>
+              <span>کیلومتر 20 جاده صوفیان - شهرک سرمایه گذاری خارجی</span>
+              <span></span>
+              <span>تبریز</span>
+              <span>(ایرانIR) (IR)</span>
+              <span></span>
+              <span>ایران</span>
+            </p>
+          </section>
+        </div>
+      </section>
+      <section>
+        <div class="te_sidenav_social_icon">
+          <p></p>
+          <div class="s_share te_social_icon ">
+            <section>
+            </section>
+            <section>
+              <a class="btn btn-link" href="https://twitter.com/sinourp">
+              </a>
+            </section>
+            <section>
+              <a class="btn btn-link" href="https://www.linkedin.com/in/sinour-poya-co-04a68a23a/">
+                <span class="fa fa-linkedin"></span>
+              </a>
+            </section>
+            <section>
+              <a class="btn btn-link" href="https://www.aparat.com/Sinour_Pouya">
+                <span class="fa fa-youtube-play"></span>
+              </a>
+            </section>
+            <section>
+            </section>
+          </div>
+        </div>
+      </section>
+    </div>
+  </section>
+</div>
+            </div>
+        <div class="oe_website_sale_ept">
+            <div class="modal fade" id="ajax_cart_model" tabindex="-1">
+                <div class="modal-dialog modal-md modal-dialog-centered">
+                    <div class="modal-content ajax_cart_modal">
+                        <button type="button" class="cart_close" data-dismiss="modal" aria-label="Close" tabindex="-1">
+                        </button>
+                        <div class="modal-body"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+                <input type="hidden" id="ajax_cart_template" value="1"/>
+        <div class="modal fade" id="quick_view_model" tabindex="-1">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content quick_view_modal">
+                    <button type="button" class="quick_close" data-dismiss="modal" aria-label="Close" tabindex="-1">
+                    </button>
+                        <div class="modal-body oe_website_sale"></div>
+                </div>
+            </div>
+        </div>
+        <main>
+            <div id="wrap">
+                <div class="container oe_website_sale py-2">
+                    <div class="row">
+                        <div class="col-12">
+        <div class="row">
+            <div class="col-xl text-lg-right text-md-right te_cart_wizard_main">
+                <div class="wizard">
+                    <div class="progress-wizard">
+                        <a class="no-decoration" href="/shop/cart">
+                          <div id="wizard-step10" class="progress-wizard-step complete">
+                            <div class="progress-wizard-bar d-none d-md-block"></div>
+                            <span class="progress-wizard-dot d-none d-md-inline-block"></span>
+                            <div class="text-center progress-wizard-steplabel">بازبینی سفارش</div>
+                          </div>
+                        </a>
+                        <a class="no-decoration" href="/shop/checkout">
+                          <div id="wizard-step20" class="progress-wizard-step active">
+                            <div class="progress-wizard-bar d-none d-md-block"></div>
+                            <span class="progress-wizard-dot d-none d-md-inline-block"></span>
+                            <div class="text-center progress-wizard-steplabel">نشانی</div>
+                          </div>
+                        </a>
+                        <a class="no-decoration" href="#">
+                          <div id="wizard-step40" class="progress-wizard-step disabled">
+                            <div class="progress-wizard-bar d-none d-md-block"></div>
+                            <span class="progress-wizard-dot d-none d-md-inline-block"></span>
+                            <div class="text-center progress-wizard-steplabel">تایید سفارش</div>
+                          </div>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+                        </div>
+                        <div class="col-12 col-xl-auto order-xl-2 d-none d-xl-block">
+        <div class="card te_cart_summary_card">
+            <div class="card-body p-xl-0">
+                <div class="toggle_summary d-xl-none">
+                    <b>سفارش شما: </b> <span id="amount_total_summary" class="monetary_field"><span class="oe_currency_value">1,285,379,200</span> ﷼</span>
+                    <span class="fa fa-chevron-down fa-border float-right" role="img" aria-label="جزئیات" title="جزئیات"></span>
+                </div>
+                <div class="toggle_summary_div d-none d-xl-block">
+                    <table class="table table-striped
+                te_confirm_products
+            " id="cart_products">
+                        <thead>
+                <tr>
+                    <th class="border-top-0 td-img" width="80">محصول</th>
+                    <th class="border-top-0"></th>
+                    <th class="border-top-0 td-qty">تعداد</th>
+                    <th class="border-top-0 text-right td-price">قیمت</th>
+                </tr>
+            </thead>
+        <tbody>
+                            <tr>
+                                <td class="td-img text-center">
+                                    <span><img src="/web/image/product.product/192/image_128/%5BSR420%5D%20%DB%8C%D8%AE%DA%86%D8%A7%D9%84%20%D9%88%20%D9%81%D8%B1%DB%8C%D8%B2%D8%B1%20%D8%AF%D9%88%D9%82%D9%84%D9%88%20%D9%85%D8%AF%D9%84%20%D9%88%DB%8C%DA%A9%D8%AA%D9%88%D8%B1%20%28%D8%B3%D9%81%DB%8C%D8%AF%2C%20%DA%A9%D9%86%D8%AF%D8%A7%D9%86%D8%B3%D9%88%D8%B1%20%D9%85%D8%B9%D9%85%D9%88%D9%84%DB%8C%29?unique=6b6fac0" class="img rounded o_image_64_max" alt="[SR420] یخچال و فریزر دوقلو مدل ویکتور (سفید, کندانسور معمولی)" loading="lazy"/></span>
+                                </td>
+                                <td class="td-product_name">
+                                    <div>
+                                        <strong>یخچال و فریزر دوقلو مدل ویکتور</strong>
+            <div class="te_checkout_prod_attr_lines mt4">
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                رنگ
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                سفید
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                کندانسور
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                کندانسور معمولی
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                ارتفاع
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                190 سانتیمتر
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                عمق
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                65 سانتیمتر
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                عرض
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                65 + 65 سانتیمتر
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                تعداد طبقات یخچال
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                7 طبقه
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                تعداد کشو فریزر
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                8 کشو
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                تعداد طبقات درب یخچال
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                5 طبقه
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                تعداد طبقات درب فریزر
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                ندارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                سایز
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                20 + 20 فوت
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                یخساز
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                یخساز نیمه اتوماتیک
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                سیستم برودتی
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                یخچال تریزون مخفی - فریزر نوفراست
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                برد کنترلر
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                لمسی هوشمند
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                نوع خنک کاری
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                تک فن
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                اخطار باز ماندن در
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                دارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                آبسردکن
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                دارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                قفل کودک
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                دارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                برفک زدایی اتوماتیک
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                دارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                فیلتر تصفیه آب
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                ندارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                نمایشگر
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                دارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                گنجایش یخچال
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                390 لیتر
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                گنجایش فریزر
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                320 لیتر
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                گنجایش کل
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                710 لیتر
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                میزان صدا
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                80dB
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                سیستم سرمایش سریع
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                ندارد
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                سیستم گردش هوا
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                فن / طبیعی
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                گرید مصرف انرژی
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                B
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                گارانتی
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                24 ماه
+                            </span>
+                        </label>
+                        <label class="w-100 mb0">
+                            <span class="te_attr_span">
+                                سری
+                            </span>
+                            :
+                            <span class="te_attr_span">
+                                ویکتور
+                            </span>
+                        </label>
+            </div>
+                                    </div>
+                                </td>
+                                <td class="td-qty">
+                                    <div>2.0</div>
+    </td>
+                                <td class="text-right td-price
+            ">
+                                    <span style=""><span class="oe_currency_value">589,623,500</span> ﷼</span>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+        <div id="cart_total" class="">
+            <table class="table">
+                  <tr id="empty">
+                      <td rowspan="10" class="border-0"></td>
+                      <td class="col-md-2 col-3 border-0"></td>
+                      <td class="col-md-2 col-3 border-0"></td>
+                  </tr>
+    <tr id="order_total_untaxed">
+                      <td class="text-right border-0">جمع جزء:</td>
+                      <td class="text-xl-right border-0">
+                          <span class="monetary_field" style="white-space: nowrap;"><span class="oe_currency_value">1,179,247,000</span> ﷼</span>
+                      </td>
+                  </tr>
+                  <tr id="order_total_taxes">
+                      <td class="text-right border-0">ارزش افزوده :</td>
+                      <td class="text-xl-right border-0">
+                           <span class="monetary_field" style="white-space: nowrap;"><span class="oe_currency_value">106,132,200</span> ﷼</span>
+                      </td>
+                  </tr>
+                  <tr id="order_total">
+                      <td class="text-right"><strong>کل:</strong></td>
+                      <td class="text-xl-right">
+                          <strong class="monetary_field"><span class="oe_currency_value">1,285,379,200</span> ﷼</strong>
+                      </td>
+                  </tr>
+            <tr>
+                <td colspan="3" class="text-center text-xl-right border-0">
+                <span class="">
+                        <a href="#" class="btn-link show_coupon te_show_cpn">من یک کد تخفیف دارم</a>
+                    <div class="coupon_form d-none">
+        <form method="post" name="coupon_code" action="/shop/pricelist?r=/shop/checkout">
+            <input type="hidden" name="csrf_token" value="20ca049847958b9ff84c3130e050135687fa694eo1791456741"/>
+            <div class="input-group w-100">
+                <input name="promo" class="form-control" type="text" placeholder="کد..."/>
+                <div class="input-group-append">
+                    <a href="#" role="button" class="btn btn-secondary a-submit te_theme_button">اعمال</a>
+                </div>
+            </div>
+        </form>
+                    </div>
+                </span>
+                </td>
+            </tr>
+            </table>
+        </div>
+                </div>
+            </div>
+        </div>
+                        </div>
+                        <div class="col-12 col-xl order-xl-1 oe_cart
+                te_checkout_add_confirm
+            ">
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <h3 class="o_page_header mt8">آدرس صورتحساب</h3>
+                                </div>
+                                <div class="col-lg-6 one_kanban">
+            <form action="/shop/checkout" method="POST" class="d-none">
+                <input type="hidden" name="csrf_token" value="20ca049847958b9ff84c3130e050135687fa694eo1791456741"/>
+                <input type="hidden" name="partner_id" value="949"/>
+                <input type="submit"/>
+            </form>
+            <div class="card border border-primary">
+                <div class="card-body" style="min-height: 130px;">
+                    <a href="#" class="btn btn-link float-right p-0 js_edit_address no-decoration" role="button" title="ویرایش این نشانی" aria-label="ویرایش این نشانی"><i class="fa fa-edit"></i></a>
+            <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+    <div>
+            <span itemprop="name">qq, linkos kali</span>
+    </div>
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            <div class="d-flex align-items-baseline">
+                <span class="w-100 o_force_ltr d-block" itemprop="streetAddress">qq<br/>تهران  1111<br/>آذربایجان</span>
+            </div>
+        </div>
+    </address>
+                </div>
+            </div>
+                                </div>
+                            </div>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h3 class="o_page_header mt16 mb4">آدرس حمل</h3>
+                                    </div>
+                                </div>
+                                <div class="row all_shipping">
+                                    <div class="col-lg-12">
+                                        <div class="row mt8">
+                                            <div class="col-md-12 col-lg-12 one_kanban">
+                                                <form action="/shop/address" method="post" class="">
+                                                    <input type="hidden" name="csrf_token" value="20ca049847958b9ff84c3130e050135687fa694eo1791456741"/>
+                                                    <a role="button" href="#" class="a-submit btn btn-secondary mb16 btn-block
+                border_primary te_add_address
+            ">
+                                                        <i class="fa fa-plus-square"></i>
+                                                        <span>افزودین یک آدرس</span>
+                                                    </a>
+                                                </form>
+                                            </div>
+                                                <div class="col-md-12 col-lg-6 one_kanban mb-2">
+            <form action="/shop/checkout" method="POST" class="d-none">
+                <input type="hidden" name="csrf_token" value="20ca049847958b9ff84c3130e050135687fa694eo1791456741"/>
+                <input type="hidden" name="partner_id" value="949"/>
+                    <input type="hidden" name="callback" value="/shop/checkout?use_billing"/>
+                <input type="submit"/>
+            </form>
+            <div class="card border border-primary">
+                <div class="card-body" style="min-height: 130px;">
+            <address class="mb-0" itemscope="itemscope" itemtype="http://schema.org/Organization">
+    <div>
+            <span itemprop="name">qq, linkos kali</span>
+    </div>
+        <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
+            <div class="d-flex align-items-baseline">
+                <span class="w-100 o_force_ltr d-block" itemprop="streetAddress">qq<br/>تهران  1111<br/>آذربایجان</span>
+            </div>
+        </div>
+    </address>
+                </div>
+            </div>
+                                                </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <div class="d-flex justify-content-between mt-4
+            ">
+                                <a role="button" href="/shop/cart" class="btn btn-secondary mb32 te_theme_button">
+                                    <i class="fa fa-chevron-left"></i>
+                                    <span>بازگشت به کارت</span>
+                                </a>
+                                <a role="button" href="/shop/confirm_order" class="btn btn-primary mb32 te_theme_button">
+                                    <span>تایید</span>
+                                    <i class="fa fa-chevron-right"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="ios-prompt">
+                <span style="color: rgb(187, 187, 187); float: right;"></span>
+                <img style="float: left; height: 50px; width: auto; margin-right: 1rem;" src="/web/image/website/1/app_image_512/50x50" loading="lazy"/>
+                <p>To install this Web App in your iPhone/iPad press <img src="/pwa_ept/static/src/img/icon.png" style="display: inline-block; height: 20px;" loading="lazy"/> and then Add to Home Screen.</p>
+            </div>
+            <div class="ept_is_offline" style="display:none;">
+                <img src="/berc_theme_base/static/src/img/offline_app.png" alt="App offline" loading="lazy"/>
+            </div>
+            <style>
+              .ios-prompt {
+                background-color: #fff;
+                border: 1px solid #eee;
+                box-shadow: 0 1px 10px #ccc;
+                display: none;
+                padding: 0.8rem 1rem 0 0.5rem;
+                text-decoration: none;
+                font-size: 14px;
+                color: #555;
+                position: fixed;
+                bottom: 0;
+                margin: 0 auto 1rem;
+                z-index: 999;
+              }
+              .ept_is_offline {
+                position: fixed;
+                bottom: 1rem;
+                left: 1rem;
+                height: 65px;
+                width: 65px;
+                z-index: 9999;
+              }
+              .ept_is_offline img {
+                width: 100%;
+              }
+            </style>
+            <div class="oe_website_sale_ept">
+                <div class="modal fade" id="ajax_cart_model_shop" tabindex="-1">
+                    <div class="modal-dialog modal-md modal-dialog-centered">
+                        <div class="modal-content ajax_cart_modal">
+                            <button type="button" class="cart_close" data-dismiss="modal" aria-label="Close" tabindex="-1">
+                            </button>
+                            <div class="modal-body">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+            <div role="dialog" id="product_configure_model_main" class="o_not_editable o_technical_modal" contenteditable="false"></div>
+            <input id="id_lazyload" type="hidden" name="is_lazyload" value="true"/>
+            <input type="hidden" class="current_website_id" value="1"/>
+            <div role="dialog" id="hotspot_configure_model_main" class="o_not_editable o_technical_modal" contenteditable="false"></div>
+        </div>
+            <div class="d-none cus_theme_loader_layout">
+                <div class="cus_theme_loader_div_layout">
+                    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto;background: transparent;display: block;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                        <g transform="translate(16.666666666666668 50)">
+                            <circle cx="0" cy="0" r="5" fill="#000000">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.48192771084337344s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(33.333333333333336 50)">
+                            <circle cx="0" cy="0" r="5" fill="#444444">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.36144578313253006s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(50 50)">
+                            <circle cx="0" cy="0" r="5" fill="#666666">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.24096385542168672s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(66.66666666666667 50)">
+                            <circle cx="0" cy="0" r="5" fill="#999999">
+                                <animateTransform attributeName="transform" type="scale" begin="-0.12048192771084336s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                        <g transform="translate(83.33333333333333 50)">
+                            <circle cx="0" cy="0" r="5" fill="#cccccc">
+                                <animateTransform attributeName="transform" type="scale" begin="0s" calcMode="spline" keySplines="0.3 0 0.7 1;0.3 0 0.7 1" values="0;1;0" keyTimes="0;0.5;1" dur="1.2048192771084336s" repeatCount="indefinite"></animateTransform>
+                            </circle>
+                        </g>
+                    </svg>
+                </div>
+            </div>
+                    <script>
+                window.addEventListener('load', function () {
+                    rstco.define('im_livechat.livesupport', function (require) {
+                    });
+                });
+                    </script>
+    </body>
+        </html>
+        

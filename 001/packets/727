@@ -1,0 +1,30 @@
+POST /shop/get_product_data HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc","/shop/compare?products=192,253"]
+Content-Length: 95
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept: */*
+Content-Type: application/json
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://sinour.ir
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/shop/compare?products=192,253
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"id":0,"jsonrpc":"2.0","method":"call","params":{"product_ids":[192,253],"cookies":[192,253]}}
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:47:21 GMT
+Content-Type: application/json
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:47:21 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+{"jsonrpc": "2.0", "id": 0, "result": {"cookies": "[192, 253]", "192": {"render": "<div class=\"row no-gutters align-items-center my-1 o_product_row\" data-category_ids=\"[5]\">\n            <div class=\"col-3 text-center\">\n                <img class=\"img o_image_64_max\" alt=\"\u062a\u0635\u0648\u06cc\u0631 \u0645\u062d\u0635\u0648\u0644\" src=\"/web/image/product.product/192/image_128?unique=6b6fac0\" loading=\"lazy\"/>\n            </div>\n            <div class=\"col-8 pl-2\">\n                <h6>\n                    <a href=\"/shop/296#attr=361,363,739,740,371,741,399,742,401,402,403,404,405,406,407,408,409,410,411,412,743,744,745,417,418,419,413,746,747\">\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0648\u06cc\u06a9\u062a\u0648\u0631 (\u0633\u0641\u06cc\u062f, \u06a9\u0646\u062f\u0627\u0646\u0633\u0648\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc)</a><br/>\n                    <del data-oe-type=\"monetary\" data-oe-expression=\"combination_info[&#39;list_price&#39;]\" style=\"white-space: nowrap;\" class=\"text-danger mr8 d-none\"><span class=\"oe_currency_value\">589,623,500</span>\u00a0\ufdfc</del>\n                    <span data-oe-type=\"monetary\" data-oe-expression=\"combination_info[&#39;price&#39;]\"><span class=\"oe_currency_value\">589,623,500</span>\u00a0\ufdfc</span>\n                </h6>\n            </div>\n            <div class=\"col-1 text-right\">\n                <a href=\"#\" class=\"o_remove\" title=\"\u062d\u0630\u0641\" data-product_product_id=\"192\">\n                    <i class=\"fa fa-trash\" role=\"img\" aria-label=\"\u062d\u0630\u0641\"></i>\n                </a>\n            </div>\n        </div>", "product": {"id": 192, "name": "\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0648\u06cc\u06a9\u062a\u0648\u0631", "display_name": "\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0648\u06cc\u06a9\u062a\u0648\u0631 (\u0633\u0641\u06cc\u062f, \u06a9\u0646\u062f\u0627\u0646\u0633\u0648\u0631 \u0645\u0639\u0645\u0648\u0644\u06cc)"}}, "253": {"render": "<div class=\"row no-gutters align-items-center my-1 o_product_row\" data-category_ids=\"[5]\">\n            <div class=\"col-3 text-center\">\n                <img class=\"img o_image_64_max\" alt=\"\u062a\u0635\u0648\u06cc\u0631 \u0645\u062d\u0635\u0648\u0644\" src=\"/web/image/product.product/253/image_128?unique=7bfcebe\" loading=\"lazy\"/>\n            </div>\n            <div class=\"col-8 pl-2\">\n                <h6>\n                    <a href=\"/shop/364#attr=482,485,712,713,488,714,490,715,492,660,661,494,655,496,497,498,499,500,501,502,503,717,718,719,508,509,504,637,720\">\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0622\u0631\u0627\u0645\u06cc\u0633 (\u0633\u0641\u06cc\u062f, \u062f\u0631\u0628 \u0645\u0639\u0645\u0648\u0644\u06cc \u0622\u0628\u0633\u0631\u062f \u06a9\u0646 \u062f\u0627\u0631)</a><br/>\n                    <del data-oe-type=\"monetary\" data-oe-expression=\"combination_info[&#39;list_price&#39;]\" style=\"white-space: nowrap;\" class=\"text-danger mr8 d-none\"><span class=\"oe_currency_value\">584,113,000</span>\u00a0\ufdfc</del>\n                    <span data-oe-type=\"monetary\" data-oe-expression=\"combination_info[&#39;price&#39;]\"><span class=\"oe_currency_value\">584,113,000</span>\u00a0\ufdfc</span>\n                </h6>\n            </div>\n            <div class=\"col-1 text-right\">\n                <a href=\"#\" class=\"o_remove\" title=\"\u062d\u0630\u0641\" data-product_product_id=\"253\">\n                    <i class=\"fa fa-trash\" role=\"img\" aria-label=\"\u062d\u0630\u0641\"></i>\n                </a>\n            </div>\n        </div>", "product": {"id": 253, "name": "\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0622\u0631\u0627\u0645\u06cc\u0633", "display_name": "\u06cc\u062e\u0686\u0627\u0644 \u0648 \u0641\u0631\u06cc\u0632\u0631 \u062f\u0648\u0642\u0644\u0648 \u0645\u062f\u0644 \u0622\u0631\u0627\u0645\u06cc\u0633 (\u0633\u0641\u06cc\u062f, \u062f\u0631\u0628 \u0645\u0639\u0645\u0648\u0644\u06cc \u0622\u0628\u0633\u0631\u062f \u06a9\u0646 \u062f\u0627\u0631)"}}}}
+

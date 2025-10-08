@@ -1,0 +1,31 @@
+POST /web/dataset/call_kw/auth_totp.wizard/enable HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security"]
+Content-Length: 160
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept: */*
+Content-Type: application/json
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://sinour.ir
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/my/security
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"id":5,"jsonrpc":"2.0","method":"call","params":{"args":[1],"model":"auth_totp.wizard","method":"enable","kwargs":{"context":{"website_id":1,"lang":"fa_IR"}}}}
+
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:29:38 GMT
+Content-Type: application/json
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:29:38 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+{"jsonrpc": "2.0", "id": 5, "error": {"code": 200, "message": "Rstco Server Error", "data": {"name": "rstco.exceptions.UserError", "debug": "Traceback (most recent call last):\n  File \"/opt/erp/rstco/addons/base/models/ir_http.py\", line 237, in _dispatch\n    result = request.dispatch()\n  File \"/opt/erp/rstco/http.py\", line 688, in dispatch\n    result = self._call_function(**self.params)\n  File \"/opt/erp/rstco/http.py\", line 360, in _call_function\n    return checked_call(self.db, *args, **kwargs)\n  File \"/opt/erp/rstco/service/model.py\", line 94, in wrapper\n    return f(dbname, *args, **kwargs)\n  File \"/opt/erp/rstco/http.py\", line 349, in checked_call\n    result = self.endpoint(*a, **kw)\n  File \"/opt/erp/rstco/http.py\", line 917, in __call__\n    return self.method(*args, **kw)\n  File \"/opt/erp/rstco/http.py\", line 536, in response_wrap\n    response = f(*args, **kw)\n  File \"/opt/erp/rstco/addons/web/controllers/main.py\", line 1348, in call_kw\n    return self._call_kw(model, method, args, kwargs)\n  File \"/opt/erp/rstco/addons/web/controllers/main.py\", line 1340, in _call_kw\n    return call_kw(request.env[model], method, args, kwargs)\n  File \"/opt/erp/rstco/api.py\", line 464, in call_kw\n    result = _call_kw_multi(method, model, args, kwargs)\n  File \"/opt/erp/rstco/api.py\", line 451, in _call_kw_multi\n    result = method(recs, *args, **kwargs)\n  File \"<decorator-gen-123>\", line 2, in enable\n  File \"/opt/erp/rstco/addons/base/models/res_users.py\", line 111, in check_identity\n    return fn(self)\n  File \"/opt/erp/rstco/addons/auth_totp/wizard/auth_totp_wizard.py\", line 74, in enable\n    raise UserError(_('Verification failed, please double-check the 6-digit code'))\nException\n\nThe above exception was the direct cause of the following exception:\n\nTraceback (most recent call last):\n  File \"/opt/erp/rstco/http.py\", line 644, in _handle_exception\n    return super(JsonRequest, self)._handle_exception(exception)\n  File \"/opt/erp/rstco/http.py\", line 302, in _handle_exception\n    raise exception.with_traceback(None) from new_cause\nrstco.exceptions.UserError: Verification failed, please double-check the 6-digit code\n", "message": "Verification failed, please double-check the 6-digit code", "arguments": ["Verification failed, please double-check the 6-digit code"], "context": {}}}}
+

@@ -1,0 +1,39 @@
+POST /shop/pricelist HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/-3","/contactus-thank-you","/","/-5","/http:/service.sinour.ir/Consoles/Recommend","/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2","/blog/5/114","/blog/6","/blog","/about-us","/contactus","/my/home","/shop/cart"]
+Content-Length: 73
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Origin: https://sinour.ir
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/shop/cart
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
+csrf_token=5045c4672e769ba863c643e36c3b6fe3394a9447o1791459498&promo=1111
+
+
+
+
+
+HTTP/2 303 See Other
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 11:38:36 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 269
+Location: http://sinour.ir/shop/cart?code_not_available=1
+Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 11:38:36 GMT; Max-Age=7776000; HttpOnly; Path=/
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>Redirecting...</title>
+<h1>Redirecting...</h1>
+<p>You should be redirected automatically to target URL: <a href="/shop/cart?code_not_available=1">/shop/cart?code_not_available=1</a>.  If not click the link.

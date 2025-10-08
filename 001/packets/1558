@@ -1,0 +1,67 @@
+GET /Controls/Loader/Select.aspx?query=7bjL60ThGoEbAk1npEEazRMHLh%2fgIowVf04iIx8qZjLzDIQX9VggNCwI%2ffM2WF%2fFuBQVSIwG5p5cv5y4PHCrVX9OIiMfKmYyBK%2fdcOVQe%2bpmsmu2lGvrJY%2b%2bxKj%2boV4H HTTP/1.1
+Host: service.sinour.ir
+Accept-Language: en-US
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Referer: http://service.sinour.ir/Consoles/Recommend/
+Accept-Encoding: gzip, deflate, br
+Cookie: ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z
+Connection: keep-alive
+
+
+
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Date: Wed, 08 Oct 2025 11:47:17 GMT
+Content-Length: 8725
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><link href='/Styles/Content/bootstrap-rtl.min.css' rel="stylesheet" media="screen" /><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta name="description" content="" /><meta name="keywords" content="" /><script>
+var rootFolder = '/';
+var isOpera = navigator.userAgent.indexOf("Opera") > -1;
+var isIE = navigator.userAgent.indexOf("MSIE") > 1 && !isOpera;
+var isMoz = navigator.userAgent.indexOf("Mozilla/5.") == 0 && !isOpera;
+</script><link rel="SHORTCUT ICON" href="../../favicon.ico" /><meta http-equiv="content-type" content="text-html; charset=utf-8" /><meta name="author" content="WWW.Sorooshan.Com" /><script src='/Js/main.js?r=1'></script><link id='pagestyle' href="/Styles/Main.css?r=12" rel="Stylesheet" type="text/css" /><link id='pagestyle' href="/Styles/fa-IR/Alignment.css" rel="Stylesheet" type="text/css" /><link id='pagestyle' href="/Styles/styleMenu.css" rel="Stylesheet" type="text/css" /><link rel="stylesheet" href="../../Styles/styleMenu-Hor-WithSubMenu.css" type="text/css" media="screen, projection" /><link id='pagestyle' href="/Js/Scripts/jquery-confirm.css" rel="Stylesheet" type="text/css" /><script type="text/javascript" src='/Js/Scripts/jquery-1.9.1.min.js'></script><script type="text/javascript" src='/Js/Scripts/jquery-confirm.js'></script><script src='/Js/Scripts/bootstrap-rtl.min.js' ></script><title>
+انتخاب
+</title></head><body dir='RTL'><form name="aspnetForm" method="post" action="./Select.aspx?query=7bjL60ThGoEbAk1npEEazRMHLh%2fgIowVf04iIx8qZjLzDIQX9VggNCwI%2ffM2WF%2fFuBQVSIwG5p5cv5y4PHCrVX9OIiMfKmYyBK%2fdcOVQe%2bpmsmu2lGvrJY%2b%2bxKj%2boV4H" id="aspnetForm"><div><input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTE5ODk3MzExDxQrAAIWAh4TVmFsaWRhdGVSZXF1ZXN0TW9kZQIBZxYCZg9kFgRmD2QWAmYPZBYCZg8WAh4EVGV4dAVNDQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iIiAvPg0KPG1ldGEgbmFtZT0ia2V5d29yZHMiIGNvbnRlbnQ9IiIgLz5kAgEPZBYEAgQPZBYEZg88KwARAwAPFgQeC18hRGF0YUJvdW5kZx4LXyFJdGVtQ291bnQCCmQBEBYAFgAWAAwUKwAAFgJmD2QWFgIBD2QWBGYPDxYCHwEFATFkZAIBD2QWAmYPFQIACtiu2LHYp9io2YpkAgIPZBYEZg8PFgIfAQUBMmRkAgEPZBYCZg8VAgAV2Kraqdix2KfYsSDYrtix2KfYqNmKZAIDD2QWBGYPDxYCHwEFATNkZAIBD2QWAmYPFQIATdi52K/ZhSDYqti32KfYqNmCINmH2LLZitmG2Ycg2KfYudmE2KfZhSDYtNiv2Ycg2KjYpyDZh9iy2YrZhtmHINiv2LHZitin2YHYqtmKZAIED2QWBGYPDxYCHwEFATRkZAIBD2QWAmYPFQIAJtix2YHYqtin2LEg2YbYp9mF2YbYp9iz2Kgg2KraqdmG2LPZitmGZAIFD2QWBGYPDxYCHwEFATVkZAIBD2QWAmYPFQIAKdiu2YjYp9iz2KrYp9ixINiq2LnZiNmK2LYg2YrYpyDZhdix2KzZiNi5ZAIGD2QWBGYPDxYCHwEFATZkZAIBD2QWAmYPFQIAHdio2KfYstiv2YrYryDZgdix2YjYtNqv2KfZh9mKZAIHD2QWBGYPDxYCHwEFATdkZAIBD2QWAmYPFQIAQ9ix2YHYqtin2LEg2YbYp9mF2YbYp9iz2Kgg2b7Ysdiz2YbZhCDYrtiv2YXYp9iqINi32YTYp9mK2Yog2b7ZiNmK2KdkAggPZBYEZg8PFgIfAQUBOGRkAgEPZBYCZg8VAgAe2YXZhtiq2LjYsSDYs9mB2KfYsdi0INmC2LfYudmHZAIJD2QWBGYPDxYCHwEFATlkZAIBD2QWAmYPFQIAFNi52K/ZhSDYsdmB2Lkg2LnZitioZAIKD2QWBGYPDxYCHwEFAjEwZGQCAQ9kFgJmDxUCAB7ar9iy2KfYsdi0INiz2LHZiNmK2LMg2K/Yp9ix2K9kAgsPDxYCHgdWaXNpYmxlaGRkAgEPFCsABWQyqQIAAQAAAP////8BAAAAAAAAAAwCAAAATFJlc291cmNlcywgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWM4YzQwOTE4OWVkYmNiMjcFAQAAACBSZXNvdXJjZXMuRGF0YUJhc2UuUGFnaW5nU2V0dGluZwcAAAAKX3BhZ2Vjb3VudAlfUGFnZVNpemUKX3BhZ2VpbmRleBNSZXR1cm5CYXNlUm93c0NvdW50E1ByaW1hcnlLZXlGaWVsZE5hbWULQWxsb3dQYWdpbmcOX2Jhc2Vyb3dzY291bnQAAAAAAQAACAgIAQEFAgAAAP////8KAAAAAAAAAAEGAwAAABBTcWxfUmVzdWJqZWN0X0lkAQIxNwtlZWVkAggPFgIfBGhkGAEFFGN0bDAwJFBhZ2VDb250ZW50JGdyDzwrAAwBCAIBZGTbKAe/ftmGD8pj1yFs77BR9f0234uOQGM2N5TN0sZd" /></div><script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+theForm.__EVENTTARGET.value = eventTarget;
+theForm.__EVENTARGUMENT.value = eventArgument;
+theForm.submit();
+}
+}
+//]]></script><script src="/WebResource.axd?d=JeQyYmut3EHYp_ynapvIrFecbw2k_LW_6suGkGR709shU4HYXslNtmAttJXeV25l6pBPQmVOL20HW6XJMLmZIHFe7uRyKLb3xcFSP0VBA-o1&amp;t=638460364960000000" type="text/javascript"></script><div class="PAGE"><div class="pageContent" id='__pageContent'><div class=panel><div><table class="grid" cellspacing="0" rules="all" border="1" id="ctl00_PageContent_gr" style="border-collapse:collapse;"><tr class="gridHeader"><th scope="col">#</th><th scope="col">عنوان</th></tr><tr class="gridRow"><td>1</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">خرابي</a></td></tr><tr class="gridAlternateRow"><td>2</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">تکرار خرابي</a></td></tr><tr class="gridRow"><td>3</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">عدم تطابق هزينه اعلام شده با هزينه دريافتي</a></td></tr><tr class="gridAlternateRow"><td>4</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">رفتار نامناسب تکنسين</a></td></tr><tr class="gridRow"><td>5</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">خواستار تعويض يا مرجوع</a></td></tr><tr class="gridAlternateRow"><td>6</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">بازديد فروشگاهي</a></td></tr><tr class="gridRow"><td>7</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">رفتار نامناسب پرسنل خدمات طلايي پويا</a></td></tr><tr class="gridAlternateRow"><td>8</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">منتظر سفارش قطعه</a></td></tr><tr class="gridRow"><td>9</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">عدم رفع عيب</a></td></tr><tr class="gridAlternateRow"><td>10</td><td><a href='javascript:void(0)' value='' onclick="javascript:if(ReturnValue)ReturnValue(this);return false;">گزارش سرويس دارد</a></td></tr></table></div><table width='100%'><tr class=gridPager><td><table border="0" style="width:100%;"><tr><td style="white-space:nowrap;">Page <b>1</b> Of <b>2</b></td><td style="width:47%;"></td><td><a title='اولین صفحه' href="javascript:__doPostBack('ctl00$PageContent$gridPager','Page$1')" ><<</a></td><td><span>1</span></td><td><a title='آخرین صفحه' href="javascript:__doPostBack('ctl00$PageContent$gridPager','Page$2')" >2</a></td><td><a title='آخرین صفحه' href="javascript:__doPostBack('ctl00$PageContent$gridPager','Page$2')">>></a></td><td style="width:47%;"></td><td style="white-space:nowrap;">Records Found: <b>17</b></td></tr></table></td></tr></table></div><script language="javascript">
+function ReturnValue(lnk)
+{
+var args = window.parent.opener.document;
+if(args.captionField)
+args.captionField.value = lnk.innerHTML;
+if(args.valueField)
+args.valueField.value =lnk.getAttribute("value");
+window.parent.close();
+}
+</script></div><input type="hidden" name="ctl00$hfwebgozarcode" id="ctl00_hfwebgozarcode" /></div><div><input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="15518134" /><input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0" /><input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0" /><input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" /><input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" /></div><script type="text/javascript">
+//<![CDATA[
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]></script></form></body><script type="text/javascript" src='/Js/Scripts/vehicleService.js'></script><script type="text/javascript" src='/Js/Scripts/jquery.translate.js'></script><script type="text/javascript" src='/UploadedFiles/Translate/translateDic.js'></script><script type="text/javascript">
+var translator = $('body').translate({ lang: "fa", t: dict }); //use persian   
+//translator.lang("pt"); //change to Portuguese
+$.getJSON('/UploadedFiles/setting.json', function (data) {
+if (data.vehicleService == "true") {
+$('body').vehicleService();
+}
+});
+</script></html>

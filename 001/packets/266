@@ -1,0 +1,89 @@
+GET /website/static/src/snippets/s_searchbar/000.xml HTTP/2
+Host: sinour.ir
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc"]
+Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+Accept: */*
+Accept-Language: en-US
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sinour.ir/website/search?search=yakh&order=name+asc
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+
+
+HTTP/2 200 OK
+Server: nginx/1.18.0
+Date: Wed, 08 Oct 2025 10:10:23 GMT
+Content-Type: application/xml
+Etag: W/"wzsdm-1653571224-3390-114098704"
+Cache-Control: max-age=604800, public
+Expires: Wed, 15 Oct 2025 10:10:23 GMT
+Last-Modified: Thu, 26 May 2022 13:20:24 GMT
+
+<?xml version="1.0" encoding="UTF-8"?>
+<templates id="template" xml:space="preserve">
+
+<!-- Search Bar autocomplete item -->
+<div t-name="website.s_searchbar.autocomplete"
+    class="dropdown-menu show w-100">
+    <t t-if="fuzzySearch and results.length">
+        <span class="dropdown-item-text text-muted">No results found for '<t t-esc="search"/>'. Showing results for '<a href="#" class="s_searchbar_fuzzy_submit" t-esc="fuzzySearch"/>'.</span>
+    </t>
+    <t t-elif="!results.length">
+        <span class="dropdown-item-text text-muted">No results found. Please try another search.</span>
+    </t>
+    <a t-foreach="results" t-as="result"
+        t-att-href="result['website_url']" class="dropdown-item p-2 text-wrap">
+        <div class="media align-items-center o_search_result_item">
+            <t t-if="parts['image_url'] and widget.displayImage">
+                <img t-if="result['image_url']" t-att-src="result['image_url']" class="flex-shrink-0 o_image_64_contain"/>
+                <i t-else="" t-attf-class="o_image_64_contain text-center pt16 fa #{result['_fa']}" style="font-size: 34px;"/>
+            </t>
+            <div class="media-body px-3">
+                <t t-set="description" t-value="parts['description'] and widget.displayDescription and result['description']"/>
+                <t t-set="extra_link" t-value="parts['extra_link'] and widget.displayExtraLink and result['extra_link_url'] and result['extra_link']"/>
+                <div t-attf-class="h6 font-weight-bold #{description ? '' : 'mb-0'}" t-out="result['name']"/>
+                <p t-if="description" class="mb-0" t-out="description"/>
+                <t t-if="extra_link">
+                    <t t-if="!extra_link['extra_link_title']">
+                        <button t-if="extra_link" class="extra_link btn btn-link btn-sm"
+                                t-att-data-target="result['extra_link_url']" t-out="extra_link"/>
+                    </t>
+                    <t t-else="">
+                        <button class="btn btn-link btn-sm pr-0" disabled="disabled" t-out="extra_link['extra_link_title']"/>
+                        <t t-foreach="Object.keys(extra_link)" t-as="link">
+                            <button t-if="result['extra_link_url'][link]" class="extra_link btn btn-link btn-sm p-0"
+                                    t-att-data-target="result['extra_link_url'][link]" t-out="extra_link[link]"/>
+                        </t>
+                    </t>
+                </t>
+            </div>
+            <div t-if="parts['detail'] and widget.displayDetail" class="flex-shrink-0">
+                <t t-if="result['detail_strike']">
+                    <span class="text-danger text-nowrap" style="text-decoration: line-through;">
+                        <t t-out="result['detail_strike']"/>
+                    </span>
+                    <br/>
+                </t>
+                <b t-if="result['detail']" class="text-nowrap">
+                    <t t-out="result['detail']"/>
+                </b>
+                <t t-if="result['detail_extra']">
+                    <br/>
+                    <span class="text-nowrap" t-out="result['detail_extra']"/>
+                </t>
+            </div>
+        </div>
+    </a>
+    <t t-if="hasMoreResults">
+        <button type="submit" class="dropdown-item text-center text-primary">All results</button>
+    </t>
+</div>
+
+</templates>
+

@@ -1,0 +1,23 @@
+Host
+Cookie
+Sec-Ch-Ua
+Accept
+Accept-Language
+Sec-Ch-Ua-Mobile
+Upgrade-Insecure-Requests
+User-Agent
+Sec-Ch-Ua-Platform
+Sec-Fetch-Site
+Sec-Fetch-Mode
+Sec-Fetch-Dest
+Referer
+Accept-Encoding
+Priority
+Origin
+Cache-Control
+Service-Worker
+X-Requested-With
+Content-Length
+Content-Type
+Connection
+GET /http

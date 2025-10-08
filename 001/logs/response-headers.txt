@@ -1,0 +1,22 @@
+HTTP/2 200 OK
+Server
+Date
+Content-Type
+Set-Cookie
+HTTP/2 404 Not Found
+Content-Length
+X-Content-Type-Options
+Content-Security-Policy
+Cache-Control
+Etag
+Expires
+Last-Modified
+Access-Control-Allow-Origin
+Access-Control-Allow-Methods
+X-Frame-Options
+HTTP/2 303 See Other
+Location
+HTTP/1.1 301 Moved Permanently
+Connection
+HTTP/2 403 Forbidden
+HTTP/2 301 Moved Permanently

@@ -1,0 +1,8 @@
+[2025-10-08T10:03:19.973Z] 🪞 ghost-cookie → session_id @ sinour.ir/ [feed: unknown] 🔓 CORS ✅
+[2025-10-08T10:03:19.979Z] 🪞 js-cookie → visitor_uuid @ sinour.ir/ [feed: unknown]
+[2025-10-08T10:03:19.982Z] 🪞 js-cookie → frontend_lang @ sinour.ir/ [feed: unknown]
+[2025-10-08T10:03:19.987Z] 🪞 js-cookie → im_livechat_history @ sinour.ir/ [feed: unknown]
+[2025-10-08T10:03:19.986Z] 🪞 js-cookie → tz @ sinour.ir/ [feed: unknown]
+[2025-10-08T10:46:15.568Z] 🪞 js-cookie → comparelist_product_ids @ sinour.ir/ [feed: unknown]
+[2025-10-08T10:59:51.506Z] 🪞 js-cookie → seen_product_id_208 @ sinour.ir/ [feed: unknown]
+[2025-10-08T11:00:10.530Z] 🪞 js-cookie → ASP.NET_SessionId @ sinour.ir/ [feed: unknown]
