@@ -1,6 +1,6 @@
 POST /web/dataset/call_kw/auth_totp.wizard/read HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.HTB.COM/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security"]
 Content-Length: 161
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
 Accept: */*
@@ -9,11 +9,11 @@ Accept-Language: en-US
 Sec-Ch-Ua-Mobile: ?0
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
 Sec-Ch-Ua-Platform: "Windows"
-Origin: https://sinour.ir
+Origin: https://HTB.COM
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: cors
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/my/security
+Referer: https://HTB.COM/my/security
 Accept-Encoding: gzip, deflate, br
 Priority: u=1, i
 
@@ -26,4 +26,4 @@ Date: Wed, 08 Oct 2025 10:28:14 GMT
 Content-Type: application/json
 Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:28:14 GMT; Max-Age=7776000; HttpOnly; Path=/
 
-{"jsonrpc": "2.0", "id": 3, "result": [{"id": 1, "user_id": [843, "linkos kali"], "secret": "IYWP TNBO QEIS RME2 IG6M RQXR 2ISO QVWM", "url": "otpauth://totp/sinour.ir:linkoskali%40gmail.com?secret=IYWPTNBOQEISRME2IG6MRQXR2ISOQVWM&issuer=sinour.ir&algorithm=SHA1&digits=6&period=30", "qrcode": "iVBORw0KGgoAAAANSUhEUgAAAOQAAADkAQAAAACgLLUgAAACSklEQVR4nO2ZMa7cSAxEXxubP93g3/9Yc4PqE9QGnB8ZdmQOsAsrESACoopks4rUKb++7o/fGOGv9T9hPec8F3h4LnDuOTznnGfZry1cnntfX/debc48XPRLK0rSpEGSNIo261nw4X5x9Va/Dvljb/699SJ8ea738Ip/7s2/ulpbBU0sFrC2q3E+5YA/Pb9gFvsVbdvSiLGCibbtJl46riBEoCYouO5XGtO00IQQ67rfigkCqrwZKqt1RRuJJDQQNU0w23ixVFu/o60atvE6mZ0j3MpEeh8vWjqJDS3Bdh0vIQGI5k0OFLbxxti2JLWGprb7fkNVUloobWLX82tKq9pGIbFht0/+ALy55+bFAxAech551vVGKEnMHKY2sl/PaTNlRCK2ZEpruT8HjMmbBL/paP38Yi2FuWlr3eeFKhXeQA3qPv928BJr0UnuPv8aoGkoWFBhP86UGjPfMCWVZF235+a58JALXyGclyMxl3nB0ZMtoYkmdV1P1kg631BSqdOk1/VVbBiYo7Tc51/oyIsZCh0W/oDeqMWgiCUtdV9fJUjbNIUMVLLen4sJbwVbkcgH6nmkLKkZ1n3HfBXvP1B4vTVzHzm+np7gs903mlEdliaJMSzP3bShIQjpzKFpP5Ffa0JUIGkIH5h/2/dQ9KZhkswx3u5XGAuZtVWq6/X8vc/JTJ8zc2dG0/X9xre+KNjZ1n1AbzjCBuObiHTUxwfwBtHZqWSWO9v9ivKUcnnojTnxCXmW+xUwoZ4JOBiyPe+fv/81/tfWfwHH6aZX2ZuVuwAAAABJRU5ErkJggg==", "code": false, "__last_update": "2025-10-08 10:28:14", "display_name": "auth_totp.wizard,1", "create_uid": [843, "linkos kali"], "create_date": "2025-10-08 10:28:14", "write_uid": [843, "linkos kali"], "write_date": "2025-10-08 10:28:14"}]}
+{"jsonrpc": "2.0", "id": 3, "result": [{"id": 1, "user_id": [843, "linkos kali"], "secret": "IYWP TNBO QEIS RME2 IG6M RQXR 2ISO QVWM", "url": "otpauth://totp/HTB.COM:linkoskali%40gmail.com?secret=IYWPTNBOQEISRME2IG6MRQXR2ISOQVWM&issuer=HTB.COM&algorithm=SHA1&digits=6&period=30", "qrcode": "iVBORw0KGgoAAAANSUhEUgAAAOQAAADkAQAAAACgLLUgAAACSklEQVR4nO2ZMa7cSAxEXxubP93g3/9Yc4PqE9QGnB8ZdmQOsAsrESACoopks4rUKb++7o/fGOGv9T9hPec8F3h4LnDuOTznnGfZry1cnntfX/debc48XPRLK0rSpEGSNIo261nw4X5x9Va/Dvljb/699SJ8ea738Ip/7s2/ulpbBU0sFrC2q3E+5YA/Pb9gFvsVbdvSiLGCibbtJl46riBEoCYouO5XGtO00IQQ67rfigkCqrwZKqt1RRuJJDQQNU0w23ixVFu/o60atvE6mZ0j3MpEeh8vWjqJDS3Bdh0vIQGI5k0OFLbxxti2JLWGprb7fkNVUloobWLX82tKq9pGIbFht0/+ALy55+bFAxAech551vVGKEnMHKY2sl/PaTNlRCK2ZEpruT8HjMmbBL/paP38Yi2FuWlr3eeFKhXeQA3qPv928BJr0UnuPv8aoGkoWFBhP86UGjPfMCWVZF235+a58JALXyGclyMxl3nB0ZMtoYkmdV1P1kg631BSqdOk1/VVbBiYo7Tc51/oyIsZCh0W/oDeqMWgiCUtdV9fJUjbNIUMVLLen4sJbwVbkcgH6nmkLKkZ1n3HfBXvP1B4vTVzHzm+np7gs903mlEdliaJMSzP3bShIQjpzKFpP5Ffa0JUIGkIH5h/2/dQ9KZhkswx3u5XGAuZtVWq6/X8vc/JTJ8zc2dG0/X9xre+KNjZ1n1AbzjCBuObiHTUxwfwBtHZqWSWO9v9ivKUcnnojTnxCXmW+xUwoZ4JOBiyPe+fv/81/tfWfwHH6aZX2ZuVuwAAAABJRU5ErkJggg==", "code": false, "__last_update": "2025-10-08 10:28:14", "display_name": "auth_totp.wizard,1", "create_uid": [843, "linkos kali"], "create_date": "2025-10-08 10:28:14", "write_uid": [843, "linkos kali"], "write_date": "2025-10-08 10:28:14"}]}

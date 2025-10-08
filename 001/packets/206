@@ -1,6 +1,6 @@
 GET / HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.HTB.COM/Consoles/Recommend","/shop/296"]
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
 Accept-Language: en-US
@@ -11,7 +11,7 @@ Sec-Ch-Ua-Platform: "Windows"
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: navigate
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/shop/296
+Referer: https://HTB.COM/shop/296
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 
@@ -35,14 +35,14 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
                         <meta property="og:type" content="website"/>
                         <meta property="og:title" content="سینور پویا"/>
                         <meta property="og:site_name" content="سینور پویا"/>
-                        <meta property="og:url" content="http://sinour.ir/"/>
-                        <meta property="og:image" content="https://sinour.ir/web/image/2976-2e9e8bcf/Untitled-1%20-%20Copy.png"/>
+                        <meta property="og:url" content="http://HTB.COM/"/>
+                        <meta property="og:image" content="https://HTB.COM/web/image/2976-2e9e8bcf/Untitled-1%20-%20Copy.png"/>
                         <meta property="og:description" content="گروه صنعتی سینورپویا با پشتوانه نیم قرن تجربه تولید لوازم خانگی تحقیقات مربوط به تولید یخچال و فریزر را از سال 1383 آغاز کرده و در سال 1385 موفق به تولید محصولات اولیه شده و این تولید در سال 1386 به تولید انبوه انواع یخچال و فریزرهای خانگی رسید."/>
                     <meta name="twitter:card" content="summary_large_image"/>
                     <meta name="twitter:title" content="سینور پویا"/>
-                    <meta name="twitter:image" content="https://sinour.ir/web/image/2976-2e9e8bcf/Untitled-1%20-%20Copy.png"/>
+                    <meta name="twitter:image" content="https://HTB.COM/web/image/2976-2e9e8bcf/Untitled-1%20-%20Copy.png"/>
                     <meta name="twitter:description" content="گروه صنعتی سینورپویا با پشتوانه نیم قرن تجربه تولید لوازم خانگی تحقیقات مربوط به تولید یخچال و فریزر را از سال 1383 آغاز کرده و در سال 1385 موفق به تولید محصولات اولیه شده و این تولید در سال 1386 به تولید انبوه انواع یخچال و فریزرهای خانگی رسید."/>
-        <link rel="canonical" href="https://sinour.ir/"/>
+        <link rel="canonical" href="https://HTB.COM/"/>
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
                 <title>سینور پویا</title>
                 <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=311f639"/>
@@ -94,7 +94,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
             <p>041-31461</p><ul>
                 <li>
                     <section>|</section>
-                </li> info@sinour.ir
+                </li> info@HTB.COM
                 <li>
                     <section>|</section>
                 </li> #
@@ -569,7 +569,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
         <ul class="dropdown-menu" role="menu">
     <li class=" 
             ">
-        <a role="menuitem" href="http://service.sinour.ir/Consoles/VirtualReception/" class="dropdown-item ">
+        <a role="menuitem" href="http://service.HTB.COM/Consoles/VirtualReception/" class="dropdown-item ">
         <span class="">درخواست نصب و تعمیر</span>
         </a>
         </li>
@@ -593,7 +593,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
         </li>
     <li class=" 
             ">
-        <a role="menuitem" href="/http://service.sinour.ir/Consoles/Recommend/" class="dropdown-item ">
+        <a role="menuitem" href="/http://service.HTB.COM/Consoles/Recommend/" class="dropdown-item ">
         <span class="">انتقادات و پیشنهادات</span>
         </a>
         </li>
@@ -605,7 +605,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
         </li>
     <li class=" 
             ">
-        <a role="menuitem" href="http://service.sinour.ir" class="dropdown-item ">
+        <a role="menuitem" href="http://service.HTB.COM" class="dropdown-item ">
         <span class="">پورتال نمایندگان</span>
         </a>
         </li>
@@ -703,9 +703,9 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
             </a>
           </section>
           <section>
-            <a class="te_ver_add_ept" href="mailto: info@sinour.ir">
+            <a class="te_ver_add_ept" href="mailto: info@HTB.COM">
               <span class="fa fa-envelope"></span>
-              <span>info@sinour.ir</span>
+              <span>info@HTB.COM</span>
             </a>
           </section>
           <section>
@@ -875,7 +875,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
           <div class="row align-items-center">
             <div class="col-lg-6 o_colored_level">
               <div class="t_img_hover_1 te_img_txt_s1">
-                <img src="https://sinour.ir/web/image/4732-ca7f3f6b/F2-Edit%20copy3.png" class="img img-fluid mx-auto o_animate o_anim_fade_in_left o_visible" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip473429" data-original-id="2150" data-original-src="/web/image/2150-a121ff76/Untitle%D9%82d%D9%82-2.png" data-mimetype="image/png" data-resize-width="undefined" style=""/>
+                <img src="https://HTB.COM/web/image/4732-ca7f3f6b/F2-Edit%20copy3.png" class="img img-fluid mx-auto o_animate o_anim_fade_in_left o_visible" alt="" loading="lazy" data-original-title="" title="" aria-describedby="tooltip473429" data-original-id="2150" data-original-src="/web/image/2150-a121ff76/Untitle%D9%82d%D9%82-2.png" data-mimetype="image/png" data-resize-width="undefined" style=""/>
               </div>
             </div>
             <div class="o_colored_level col-lg-4 offset-lg-2" style="">
@@ -980,7 +980,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
                 <div class="o_colored_level col-lg-5 offset-lg-4 pt0 pb16">
                   <p class="lead" style="text-align: center;">
                     <span style="font-size: medium; font-weight: bolder;">از طریق این 
-                                            <a href="http://service.sinour.ir/Consoles/VirtualReception/" data-original-title="" title="">لینک</a> می توانید به صفحه درخواست نصب رفته و از طریق فرم درخواست نصب و تعمیر، درخواست خود را ثبت نمایید
+                                            <a href="http://service.HTB.COM/Consoles/VirtualReception/" data-original-title="" title="">لینک</a> می توانید به صفحه درخواست نصب رفته و از طریق فرم درخواست نصب و تعمیر، درخواست خود را ثبت نمایید
                                         </span>
                     <br/>
                   </p>
@@ -1091,8 +1091,8 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
                   </span>
                   <span class="te_ftr_text_style d-inline-block pl-sm-2">
                     <p class="te_title_span">ایمیل</p>
-                    <a href="mailto: info@sinour.ir">
-                      <span>info@sinour.ir</span>
+                    <a href="mailto: info@HTB.COM">
+                      <span>info@HTB.COM</span>
                     </a>
                   </span>
                 </li>
@@ -1197,7 +1197,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
                 </div>
               </div>
               <section class="te_footer_social_icon o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip507963">
-                <a class=" btn btn-link" href="http://sinour.ir" data-original-title="" title="">
+                <a class=" btn btn-link" href="http://HTB.COM" data-original-title="" title="">
                   </a>
                 <a class="btn btn-link" href="https://twitter.com/sinourp" data-original-title="" title="">
                   <span class="fa fa-twitter" data-original-title="" title="" aria-describedby="tooltip714941"></span>
@@ -1208,7 +1208,7 @@ Set-Cookie: session_id=45554e2550eb10e10fefce0b5aacfeade505704c; Expires=Tue, 06
                 <a class=" btn btn-link" href="https://www.aparat.com/Sinour_Pouya" data-original-title="" title="">
                   <img class="img-fluid o_we_custom_image" src="/web/image/2799-8b1fd8ac/index.png" alt="" loading="lazy"/>
                 </a>
-                <a class="btn btn-link" href="https://www.instagram.com/sinour.ir/" data-original-title="" title="" style="color: rgb(206, 167, 212); text-decoration: underline;">
+                <a class="btn btn-link" href="https://www.instagram.com/HTB.COM/" data-original-title="" title="" style="color: rgb(206, 167, 212); text-decoration: underline;">
                   <span class="fa fa-instagram" data-original-title="" title="" aria-describedby="tooltip503792"></span>
                 </a>
               </section>

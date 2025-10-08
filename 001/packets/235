@@ -1,6 +1,6 @@
 GET / shop / wishlist ? count = 1 HTTP / 2
-Host: sinour.ir
-Cookie: visitor_uuid = 4af9414b0f6941eb8a5075343dd4f8c9; session_id = 45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang = fa_IR; tz = Asia / Tehran; im_livechat_history = ["/", "/website/search?search=abaa&order=name+asc", "/website/search?search=a%3Cbaa&order=name+asc", "/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc", "/http:/service.sinour.ir/Consoles/Recommend", "/shop/296"]
+Host: HTB.COM
+Cookie: visitor_uuid = 4af9414b0f6941eb8a5075343dd4f8c9; session_id = 45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang = fa_IR; tz = Asia / Tehran; im_livechat_history = ["/", "/website/search?search=abaa&order=name+asc", "/website/search?search=a%3Cbaa&order=name+asc", "/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc", "/http:/service.HTB.COM/Consoles/Recommend", "/shop/296"]
 Sec - Ch - Ua: "Not/A)Brand"; v = "8", "Chromium"; v = "126"
 Accept: */*
 X-Requested-With: XMLHttpRequest
@@ -11,7 +11,7 @@ Sec-Ch-Ua-Platform: "Windows"
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: cors
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/
+Referer: https://HTB.COM/
 Accept-Encoding: gzip, deflate, br
 Priority: u=1, i
 

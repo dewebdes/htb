@@ -1,6 +1,6 @@
 POST /web/signup HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=45554e2550eb10e10fefce0b5aacfeade505704c; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.HTB.COM/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler"]
 Content-Length: 181
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
 Accept-Language: en-US
@@ -10,11 +10,11 @@ Content-Type: application/x-www-form-urlencoded; charset=UTF-8
 Accept: */*
 X-Requested-With: XMLHttpRequest
 Sec-Ch-Ua-Platform: "Windows"
-Origin: https://sinour.ir
+Origin: https://HTB.COM
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: cors
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/wholesaler
+Referer: https://HTB.COM/wholesaler
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 

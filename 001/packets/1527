@@ -1,5 +1,5 @@
 GET /Consoles/VirtualReception/ HTTP/1.1
-Host: service.sinour.ir
+Host: service.HTB.COM
 Accept-Language: en-US
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36

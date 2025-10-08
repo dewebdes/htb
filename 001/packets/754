@@ -1,6 +1,6 @@
 GET /shop/confirm_order HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc","/shop/compare?products=192,253"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/http:/service.HTB.COM/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc","/shop/compare?products=192,253"]
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
 Accept-Language: en-US
@@ -22,7 +22,7 @@ Server: nginx/1.18.0
 Date: Wed, 08 Oct 2025 10:50:18 GMT
 Content-Type: text/html; charset=utf-8
 Content-Length: 233
-Location: http://sinour.ir/shop/payment
+Location: http://HTB.COM/shop/payment
 Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:50:18 GMT; Max-Age=7776000; HttpOnly; Path=/
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">

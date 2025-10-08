@@ -1,9 +1,9 @@
 GET /Consoles/ReceptionPoint/FirstEnt/Resource.ashx?query=xK7mJXyJ6UaPsQ2%2bt99plGispQ1TNKrfFmBXhjFyMNw%3d&s=%u0622%u0630%u0631%u0628%u0627%u064A%u062C%u0627%u0646%20%u0634%u0631%u0642%u064A&pageLoad=partial&rnd=19453616524694217 HTTP/1.1
-Host: service.sinour.ir
+Host: service.HTB.COM
 Accept-Language: en-US
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
 Accept: */*
-Referer: http://service.sinour.ir/Consoles/VirtualReception/
+Referer: http://service.HTB.COM/Consoles/VirtualReception/
 Accept-Encoding: gzip, deflate, br
 Cookie: ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z
 Connection: keep-alive

@@ -1,10 +1,10 @@
 GET /Controls/Loader/SelectAccountName.aspx?query=zs0Swhzcq%2fuquagYPjSqZQgCPUt%2fK5BwgNqhUVVeb9o8l6vcwtxsPMmtYKJKs1CPPrNcx4AK%2bNr%2bOyhjWUh%2bbY1VpJg%2fJjJE HTTP/1.1
-Host: service.sinour.ir
+Host: service.HTB.COM
 Accept-Language: en-US
 Upgrade-Insecure-Requests: 1
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
-Referer: http://service.sinour.ir/Consoles/Recommend/
+Referer: http://service.HTB.COM/Consoles/Recommend/
 Accept-Encoding: gzip, deflate, br
 Cookie: ASP.NET_SessionId=0e4oydlai2skt1s0hlt1v52z
 Connection: keep-alive

@@ -1,6 +1,6 @@
 POST /shop/cart/update_custom HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.HTB.COM/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account","/my/payment_method","/my/security","/shop/cart","/shop/294","/shop","/shop?order=list_price+desc","/shop/category/5?order=list_price+desc"]
 Content-Length: 92
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
 Accept-Language: en-US
@@ -10,11 +10,11 @@ Content-Type: application/json
 Accept: application/json, text/javascript, */*; q=0.01
 X-Requested-With: XMLHttpRequest
 Sec-Ch-Ua-Platform: "Windows"
-Origin: https://sinour.ir
+Origin: https://HTB.COM
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: cors
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/shop/category/5?category=5&search=&attrib=162-12&attrib=163-14&attrib=164-92&attrib=165-78&attrib=166-93&attrib=167-25&attrib=168-112&attrib=161-122
+Referer: https://HTB.COM/shop/category/5?category=5&search=&attrib=162-12&attrib=163-14&attrib=164-92&attrib=165-78&attrib=166-93&attrib=167-25&attrib=168-112&attrib=161-122
 Accept-Encoding: gzip, deflate, br
 Priority: u=1, i
 

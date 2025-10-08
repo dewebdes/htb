@@ -1,6 +1,6 @@
 GET /blog/5/114 HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/shop/payment","/shop/checkout","/shop/address","/shop?search=&attrib=161-4","/shop/30-70-20-291","/shop/90-282?attrib=286-10&attrib=286-11#attr=","/shop/90-282?attrib=286-10&attrib=286-11#attr=420,422,423,707,427,428,426,748,356","/-3","/contactus-thank-you","/","/-5","/http:/service.sinour.ir/Consoles/Recommend","/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/shop/payment","/shop/checkout","/shop/address","/shop?search=&attrib=161-4","/shop/30-70-20-291","/shop/90-282?attrib=286-10&attrib=286-11#attr=","/shop/90-282?attrib=286-10&attrib=286-11#attr=420,422,423,707,427,428,426,748,356","/-3","/contactus-thank-you","/","/-5","/http:/service.HTB.COM/Consoles/Recommend","/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2"]
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
 Accept-Language: en-US
@@ -11,7 +11,7 @@ Sec-Ch-Ua-Platform: "Windows"
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: navigate
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/blog
+Referer: https://HTB.COM/blog
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 
@@ -34,7 +34,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
                         <meta property="og:type" content="article"/>
                         <meta property="og:title" content="طی مراسمی با حضور معاون رئیس جمهور، گروه صنعتی سینورپویا به عنوان واحد منتخب صنعت آذربایجان شرقی انتخاب شد."/>
                         <meta property="og:site_name" content="سینور پویا"/>
-                        <meta property="og:url" content="http://sinour.ir/blog/5/114"/>
+                        <meta property="og:url" content="http://HTB.COM/blog/5/114"/>
                         <meta property="og:image" content=""/>
                         <meta property="og:description"/>
                         <meta property="article:published_time" content="2024-10-03 21:45:12"/>
@@ -43,7 +43,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
                     <meta name="twitter:title" content="طی مراسمی با حضور معاون رئیس جمهور، گروه صنعتی سینورپویا به عنوان واحد منتخب صنعت آذربایجان شرقی انتخاب شد."/>
                     <meta name="twitter:image" content=""/>
                     <meta name="twitter:description"/>
-        <link rel="canonical" href="https://sinour.ir/blog/5/114"/>
+        <link rel="canonical" href="https://HTB.COM/blog/5/114"/>
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin=""/>
                 <title> طی مراسمی با حضور معاون رئیس جمهور، گروه صنعتی سینورپویا به عنوان واحد منتخب صنعت آذربایجان شرقی انتخاب شد. | سینور پویا </title>
                 <link type="image/x-icon" rel="shortcut icon" href="/web/image/website/1/favicon?unique=311f639"/>
@@ -95,7 +95,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
             <p>041-31461</p><ul>
                 <li>
                     <section>|</section>
-                </li> info@sinour.ir
+                </li> info@HTB.COM
                 <li>
                     <section>|</section>
                 </li> #
@@ -483,7 +483,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
         <ul class="dropdown-menu" role="menu">
     <li class=" 
             ">
-        <a role="menuitem" href="http://service.sinour.ir/Consoles/VirtualReception/" class="dropdown-item ">
+        <a role="menuitem" href="http://service.HTB.COM/Consoles/VirtualReception/" class="dropdown-item ">
         <span class="">درخواست نصب و تعمیر</span>
         </a>
         </li>
@@ -507,7 +507,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
         </li>
     <li class=" 
             ">
-        <a role="menuitem" href="/http://service.sinour.ir/Consoles/Recommend/" class="dropdown-item ">
+        <a role="menuitem" href="/http://service.HTB.COM/Consoles/Recommend/" class="dropdown-item ">
         <span class="">انتقادات و پیشنهادات</span>
         </a>
         </li>
@@ -519,7 +519,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
         </li>
     <li class=" 
             ">
-        <a role="menuitem" href="http://service.sinour.ir" class="dropdown-item ">
+        <a role="menuitem" href="http://service.HTB.COM" class="dropdown-item ">
         <span class="">پورتال نمایندگان</span>
         </a>
         </li>
@@ -617,9 +617,9 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
             </a>
           </section>
           <section>
-            <a class="te_ver_add_ept" href="mailto: info@sinour.ir">
+            <a class="te_ver_add_ept" href="mailto: info@HTB.COM">
               <span class="fa fa-envelope"></span>
-              <span>info@sinour.ir</span>
+              <span>info@HTB.COM</span>
             </a>
           </section>
           <section>
@@ -827,8 +827,8 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
                   </span>
                   <span class="te_ftr_text_style d-inline-block pl-sm-2">
                     <p class="te_title_span">ایمیل</p>
-                    <a href="mailto: info@sinour.ir">
-                      <span>info@sinour.ir</span>
+                    <a href="mailto: info@HTB.COM">
+                      <span>info@HTB.COM</span>
                     </a>
                   </span>
                 </li>
@@ -933,7 +933,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
                 </div>
               </div>
               <section class="te_footer_social_icon o_colored_level" style="background-image: none;" data-original-title="" title="" aria-describedby="tooltip507963">
-                <a class=" btn btn-link" href="http://sinour.ir" data-original-title="" title="">
+                <a class=" btn btn-link" href="http://HTB.COM" data-original-title="" title="">
                   </a>
                 <a class="btn btn-link" href="https://twitter.com/sinourp" data-original-title="" title="">
                   <span class="fa fa-twitter" data-original-title="" title="" aria-describedby="tooltip714941"></span>
@@ -944,7 +944,7 @@ Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06
                 <a class=" btn btn-link" href="https://www.aparat.com/Sinour_Pouya" data-original-title="" title="">
                   <img class="img-fluid o_we_custom_image" src="/web/image/2799-8b1fd8ac/index.png" alt="" loading="lazy"/>
                 </a>
-                <a class="btn btn-link" href="https://www.instagram.com/sinour.ir/" data-original-title="" title="" style="color: rgb(206, 167, 212); text-decoration: underline;">
+                <a class="btn btn-link" href="https://www.instagram.com/HTB.COM/" data-original-title="" title="" style="color: rgb(206, 167, 212); text-decoration: underline;">
                   <span class="fa fa-instagram" data-original-title="" title="" aria-describedby="tooltip503792"></span>
                 </a>
               </section>

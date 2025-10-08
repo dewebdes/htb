@@ -1,10 +1,10 @@
 POST /my/account HTTP/2
-Host: sinour.ir
-Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.sinour.ir/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account"]
+Host: HTB.COM
+Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; im_livechat_history=["/","/website/search?search=abaa&order=name+asc","/website/search?search=a%3Cbaa&order=name+asc","/website/search?search=%3C%3CUNIQ_TEST_ENCODED%3E%3E&order=name+asc","/http:/service.HTB.COM/Consoles/Recommend","/shop/296","/website/search?search=yakh&order=name+asc","/job-thank-you","/wholesaler","/my/home","/my/account"]
 Content-Length: 238
 Cache-Control: max-age=0
 Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
-Origin: https://sinour.ir
+Origin: https://HTB.COM
 Accept-Language: en-US
 Sec-Ch-Ua-Mobile: ?0
 Upgrade-Insecure-Requests: 1
@@ -15,7 +15,7 @@ Sec-Ch-Ua-Platform: "Windows"
 Sec-Fetch-Site: same-origin
 Sec-Fetch-Mode: navigate
 Sec-Fetch-Dest: empty
-Referer: https://sinour.ir/my/account
+Referer: https://HTB.COM/my/account
 Accept-Encoding: gzip, deflate, br
 Priority: u=0, i
 
@@ -27,7 +27,7 @@ Server: nginx/1.18.0
 Date: Wed, 08 Oct 2025 10:23:07 GMT
 Content-Type: text/html; charset=utf-8
 Content-Length: 223
-Location: http://sinour.ir/my/home
+Location: http://HTB.COM/my/home
 Set-Cookie: session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; Expires=Tue, 06-Jan-2026 10:23:07 GMT; Max-Age=7776000; HttpOnly; Path=/
 
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
