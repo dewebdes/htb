@@ -1,0 +1,107 @@
+=== AI Pentest Engine v1.0 Report ===
+Date: ۱۴۰۴/۷/۱۷, ۱۴:۵۶:۲۵
+Attack Module: MIME Fingerprint Probe
+Packet Source: packet.txt
+
+--- Packet Summary ---
+Method: GET
+URL: https://sinour.ir/web_editor/shape/web_editor/Floats/12.svg?c1=%2318B8FF&c2=%233984C6&c3=%23F6F6F6&c5=%23383E45
+Headers:
+  Host: sinour.ir
+  Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/website/search?search=scobar&order=name+asc","/website?search=scobar%0accc&order=name+asc","/website/search?search=scobar%3C%0abbb&order=name+asc","/website/search?search=x8m5ci8t&order=name+asc","/shop?search=x8m5ci8t","/shop?search=scobar%27%0abbb%3Cb%0A%3Csvg/onload=alert(1)%3E%22%20autofocus%20onfocus=alert(1)%20x=%22%C0%BC&","/shop?commandOrParams=scobar","/shop?commandOrParams=x8m5ci8t","/shop?commandOrParams={}","/shop?commandOrParams=javascript
+  Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept-Language: en-US
+  Sec-Ch-Ua-Mobile: ?0
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+  Sec-Ch-Ua-Platform: "Windows"
+  Sec-Fetch-Site: same-origin
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Dest: empty
+  Accept-Encoding: gzip, deflate, br
+  Priority: u=0, i
+Body:
+  
+
+--- Requests Executed ---
+[mime-0]
+Payload: 12.svg
+Part: filename
+Status Code: 200
+Response Length: 54655 bytes
+Interesting: high
+Notes: MIME: unknown → Status 200, Length 54655
+
+[mime-1]
+Payload: 12.png
+Part: filename
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68483
+
+[mime-2]
+Payload: 12.jpg
+Part: filename
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68483
+
+[mime-3]
+Payload: 12.xml
+Part: filename
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68483
+
+[mime-4]
+Payload: 12.txt
+Part: filename
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68483
+
+[mime-5]
+Payload: 12.py
+Part: filename
+Status Code: 404
+Response Length: 68475 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68475
+
+[mime-6]
+Payload: 12.conf
+Part: filename
+Status Code: 404
+Response Length: 68491 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68491
+
+[mime-7]
+Payload: 12.log
+Part: filename
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68483
+
+[mime-8]
+Payload: 12.zip
+Part: filename
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: MIME: unknown → Status 404, Length 68483
+
+--- Summary ---
+Total Requests Sent: 9
+Exploited: 0
+Unpredictable: 0
+Low Impact: 0
+No Effect: 8
+
+Report saved by AI Pentest Engine v1.0.
