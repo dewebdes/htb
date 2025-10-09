@@ -1,0 +1,851 @@
+=== AI Pentest Engine v1.0 Report ===
+Date: ۱۴۰۴/۷/۱۷, ۱۳:۱۷:۰۰
+Attack Module: Image ID Resolution Probe
+Packet Source: packet.txt
+
+--- Packet Summary ---
+Method: GET
+URL: https://sinour.ir/web/image/4766-dff164cd/Slider-02.jpg
+Headers:
+  Host: sinour.ir
+  Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2","/blog/5/114","/blog/6","/blog","/about-us","/contactus","/my/home","/shop/cart","/shop/cart?code_not_available=1","/my/orders","/my/orders?sortby=name","/website/search?search=yakh&order=name+asc","/sexi"]
+  Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept-Language: en-US
+  Sec-Ch-Ua-Mobile: ?0
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+  Sec-Ch-Ua-Platform: "Windows"
+  Sec-Fetch-Site: same-origin
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Dest: empty
+  Accept-Encoding: gzip, deflate, br
+  Priority: u=0, i
+Body:
+  
+
+--- Requests Executed ---
+[baseline]
+Payload: ID: 4766
+Part: path
+Status Code: 200
+Response Length: 233312 bytes
+Interesting: baseline
+Notes: Known valid image ID
+
+[img-4700]
+Payload: ID: 4700
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4700 → Status 200, Length 5812
+
+[img-4701]
+Payload: ID: 4701
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4701 → Status 200, Length 5812
+
+[img-4702]
+Payload: ID: 4702
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4702 → Status 200, Length 5812
+
+[img-4703]
+Payload: ID: 4703
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4703 → Status 200, Length 5812
+
+[img-4704]
+Payload: ID: 4704
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4704 → Status 200, Length 5812
+
+[img-4705]
+Payload: ID: 4705
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4705 → Status 200, Length 5812
+
+[img-4706]
+Payload: ID: 4706
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4706 → Status 200, Length 5812
+
+[img-4707]
+Payload: ID: 4707
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4707 → Status 200, Length 5812
+
+[img-4708]
+Payload: ID: 4708
+Part: path
+Status Code: 500
+Response Length: 290 bytes
+Interesting: none
+Notes: Image ID 4708 → Status 500, Length 290
+
+[img-4709]
+Payload: ID: 4709
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4709 → Status 200, Length 5812
+
+[img-4710]
+Payload: ID: 4710
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4710 → Status 200, Length 5812
+
+[img-4711]
+Payload: ID: 4711
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4711 → Status 200, Length 5812
+
+[img-4712]
+Payload: ID: 4712
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4712 → Status 200, Length 5812
+
+[img-4713]
+Payload: ID: 4713
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4713 → Status 200, Length 5812
+
+[img-4714]
+Payload: ID: 4714
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4714 → Status 200, Length 5812
+
+[img-4715]
+Payload: ID: 4715
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4715 → Status 200, Length 5812
+
+[img-4716]
+Payload: ID: 4716
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4716 → Status 200, Length 5812
+
+[img-4717]
+Payload: ID: 4717
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4717 → Status 200, Length 5812
+
+[img-4718]
+Payload: ID: 4718
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4718 → Status 200, Length 5812
+
+[img-4719]
+Payload: ID: 4719
+Part: path
+Status Code: 500
+Response Length: 290 bytes
+Interesting: none
+Notes: Image ID 4719 → Status 500, Length 290
+
+[img-4720]
+Payload: ID: 4720
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4720 → Status 200, Length 5812
+
+[img-4721]
+Payload: ID: 4721
+Part: path
+Status Code: 200
+Response Length: 61738 bytes
+Interesting: high
+Notes: Image ID 4721 → Status 200, Length 61738
+
+[img-4722]
+Payload: ID: 4722
+Part: path
+Status Code: 200
+Response Length: 644816 bytes
+Interesting: high
+Notes: Image ID 4722 → Status 200, Length 644816
+
+[img-4723]
+Payload: ID: 4723
+Part: path
+Status Code: 200
+Response Length: 644816 bytes
+Interesting: high
+Notes: Image ID 4723 → Status 200, Length 644816
+
+[img-4724]
+Payload: ID: 4724
+Part: path
+Status Code: 200
+Response Length: 644816 bytes
+Interesting: high
+Notes: Image ID 4724 → Status 200, Length 644816
+
+[img-4725]
+Payload: ID: 4725
+Part: path
+Status Code: 200
+Response Length: 162899 bytes
+Interesting: high
+Notes: Image ID 4725 → Status 200, Length 162899
+
+[img-4726]
+Payload: ID: 4726
+Part: path
+Status Code: 200
+Response Length: 2460 bytes
+Interesting: none
+Notes: Image ID 4726 → Status 200, Length 2460
+
+[img-4727]
+Payload: ID: 4727
+Part: path
+Status Code: 200
+Response Length: 162899 bytes
+Interesting: high
+Notes: Image ID 4727 → Status 200, Length 162899
+
+[img-4728]
+Payload: ID: 4728
+Part: path
+Status Code: 200
+Response Length: 229889 bytes
+Interesting: high
+Notes: Image ID 4728 → Status 200, Length 229889
+
+[img-4729]
+Payload: ID: 4729
+Part: path
+Status Code: 200
+Response Length: 229889 bytes
+Interesting: high
+Notes: Image ID 4729 → Status 200, Length 229889
+
+[img-4730]
+Payload: ID: 4730
+Part: path
+Status Code: 200
+Response Length: 492048 bytes
+Interesting: high
+Notes: Image ID 4730 → Status 200, Length 492048
+
+[img-4731]
+Payload: ID: 4731
+Part: path
+Status Code: 200
+Response Length: 518114 bytes
+Interesting: high
+Notes: Image ID 4731 → Status 200, Length 518114
+
+[img-4732]
+Payload: ID: 4732
+Part: path
+Status Code: 200
+Response Length: 561106 bytes
+Interesting: high
+Notes: Image ID 4732 → Status 200, Length 561106
+
+[img-4733]
+Payload: ID: 4733
+Part: path
+Status Code: 200
+Response Length: 127073 bytes
+Interesting: high
+Notes: Image ID 4733 → Status 200, Length 127073
+
+[img-4734]
+Payload: ID: 4734
+Part: path
+Status Code: 200
+Response Length: 1272767 bytes
+Interesting: high
+Notes: Image ID 4734 → Status 200, Length 1272767
+
+[img-4735]
+Payload: ID: 4735
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4735 → Status 200, Length 5812
+
+[img-4736]
+Payload: ID: 4736
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4736 → Status 200, Length 5812
+
+[img-4737]
+Payload: ID: 4737
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4737 → Status 200, Length 5812
+
+[img-4738]
+Payload: ID: 4738
+Part: path
+Status Code: 200
+Response Length: 60303 bytes
+Interesting: high
+Notes: Image ID 4738 → Status 200, Length 60303
+
+[img-4739]
+Payload: ID: 4739
+Part: path
+Status Code: 200
+Response Length: 95165 bytes
+Interesting: high
+Notes: Image ID 4739 → Status 200, Length 95165
+
+[img-4740]
+Payload: ID: 4740
+Part: path
+Status Code: 200
+Response Length: 158466 bytes
+Interesting: high
+Notes: Image ID 4740 → Status 200, Length 158466
+
+[img-4741]
+Payload: ID: 4741
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4741 → Status 200, Length 5812
+
+[img-4742]
+Payload: ID: 4742
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4742 → Status 200, Length 5812
+
+[img-4743]
+Payload: ID: 4743
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4743 → Status 200, Length 5812
+
+[img-4744]
+Payload: ID: 4744
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4744 → Status 200, Length 5812
+
+[img-4745]
+Payload: ID: 4745
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4745 → Status 200, Length 5812
+
+[img-4746]
+Payload: ID: 4746
+Part: path
+Status Code: 200
+Response Length: 86085 bytes
+Interesting: high
+Notes: Image ID 4746 → Status 200, Length 86085
+
+[img-4747]
+Payload: ID: 4747
+Part: path
+Status Code: 200
+Response Length: 73088 bytes
+Interesting: high
+Notes: Image ID 4747 → Status 200, Length 73088
+
+[img-4748]
+Payload: ID: 4748
+Part: path
+Status Code: 200
+Response Length: 12415 bytes
+Interesting: high
+Notes: Image ID 4748 → Status 200, Length 12415
+
+[img-4749]
+Payload: ID: 4749
+Part: path
+Status Code: 200
+Response Length: 158466 bytes
+Interesting: high
+Notes: Image ID 4749 → Status 200, Length 158466
+
+[img-4750]
+Payload: ID: 4750
+Part: path
+Status Code: 200
+Response Length: 451559 bytes
+Interesting: high
+Notes: Image ID 4750 → Status 200, Length 451559
+
+[img-4751]
+Payload: ID: 4751
+Part: path
+Status Code: 200
+Response Length: 82231 bytes
+Interesting: high
+Notes: Image ID 4751 → Status 200, Length 82231
+
+[img-4752]
+Payload: ID: 4752
+Part: path
+Status Code: 200
+Response Length: 469552 bytes
+Interesting: high
+Notes: Image ID 4752 → Status 200, Length 469552
+
+[img-4753]
+Payload: ID: 4753
+Part: path
+Status Code: 200
+Response Length: 96279 bytes
+Interesting: high
+Notes: Image ID 4753 → Status 200, Length 96279
+
+[img-4754]
+Payload: ID: 4754
+Part: path
+Status Code: 200
+Response Length: 96279 bytes
+Interesting: high
+Notes: Image ID 4754 → Status 200, Length 96279
+
+[img-4755]
+Payload: ID: 4755
+Part: path
+Status Code: 200
+Response Length: 96279 bytes
+Interesting: high
+Notes: Image ID 4755 → Status 200, Length 96279
+
+[img-4756]
+Payload: ID: 4756
+Part: path
+Status Code: 200
+Response Length: 571457 bytes
+Interesting: high
+Notes: Image ID 4756 → Status 200, Length 571457
+
+[img-4757]
+Payload: ID: 4757
+Part: path
+Status Code: 200
+Response Length: 235971 bytes
+Interesting: high
+Notes: Image ID 4757 → Status 200, Length 235971
+
+[img-4758]
+Payload: ID: 4758
+Part: path
+Status Code: 200
+Response Length: 551535 bytes
+Interesting: high
+Notes: Image ID 4758 → Status 200, Length 551535
+
+[img-4759]
+Payload: ID: 4759
+Part: path
+Status Code: 200
+Response Length: 55894 bytes
+Interesting: high
+Notes: Image ID 4759 → Status 200, Length 55894
+
+[img-4760]
+Payload: ID: 4760
+Part: path
+Status Code: 200
+Response Length: 55894 bytes
+Interesting: high
+Notes: Image ID 4760 → Status 200, Length 55894
+
+[img-4761]
+Payload: ID: 4761
+Part: path
+Status Code: 200
+Response Length: 63841 bytes
+Interesting: high
+Notes: Image ID 4761 → Status 200, Length 63841
+
+[img-4762]
+Payload: ID: 4762
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4762 → Status 200, Length 5812
+
+[img-4763]
+Payload: ID: 4763
+Part: path
+Status Code: 200
+Response Length: 158466 bytes
+Interesting: high
+Notes: Image ID 4763 → Status 200, Length 158466
+
+[img-4764]
+Payload: ID: 4764
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4764 → Status 200, Length 5812
+
+[img-4765]
+Payload: ID: 4765
+Part: path
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[img-4766]
+Payload: ID: 4766
+Part: path
+Status Code: 200
+Response Length: 233312 bytes
+Interesting: high
+Notes: Image ID 4766 → Status 200, Length 233312
+
+[img-4767]
+Payload: ID: 4767
+Part: path
+Status Code: 200
+Response Length: 233312 bytes
+Interesting: high
+Notes: Image ID 4767 → Status 200, Length 233312
+
+[img-4768]
+Payload: ID: 4768
+Part: path
+Status Code: 200
+Response Length: 233312 bytes
+Interesting: high
+Notes: Image ID 4768 → Status 200, Length 233312
+
+[img-4769]
+Payload: ID: 4769
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4769 → Status 200, Length 5812
+
+[img-4770]
+Payload: ID: 4770
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4770 → Status 200, Length 5812
+
+[img-4771]
+Payload: ID: 4771
+Part: path
+Status Code: 200
+Response Length: 233312 bytes
+Interesting: high
+Notes: Image ID 4771 → Status 200, Length 233312
+
+[img-4772]
+Payload: ID: 4772
+Part: path
+Status Code: 500
+Response Length: 290 bytes
+Interesting: none
+Notes: Image ID 4772 → Status 500, Length 290
+
+[img-4773]
+Payload: ID: 4773
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4773 → Status 200, Length 5812
+
+[img-4774]
+Payload: ID: 4774
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4774 → Status 200, Length 5812
+
+[img-4775]
+Payload: ID: 4775
+Part: path
+Status Code: 200
+Response Length: 40389 bytes
+Interesting: high
+Notes: Image ID 4775 → Status 200, Length 40389
+
+[img-4776]
+Payload: ID: 4776
+Part: path
+Status Code: 200
+Response Length: 38917 bytes
+Interesting: high
+Notes: Image ID 4776 → Status 200, Length 38917
+
+[img-4777]
+Payload: ID: 4777
+Part: path
+Status Code: 200
+Response Length: 60000 bytes
+Interesting: high
+Notes: Image ID 4777 → Status 200, Length 60000
+
+[img-4778]
+Payload: ID: 4778
+Part: path
+Status Code: 200
+Response Length: 57624 bytes
+Interesting: high
+Notes: Image ID 4778 → Status 200, Length 57624
+
+[img-4779]
+Payload: ID: 4779
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4779 → Status 200, Length 5812
+
+[img-4780]
+Payload: ID: 4780
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4780 → Status 200, Length 5812
+
+[img-4781]
+Payload: ID: 4781
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4781 → Status 200, Length 5812
+
+[img-4782]
+Payload: ID: 4782
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Image ID 4782 → Status 200, Length 5812
+
+[img-4783]
+Payload: ID: 4783
+Part: path
+Status Code: 200
+Response Length: 49349 bytes
+Interesting: high
+Notes: Image ID 4783 → Status 200, Length 49349
+
+[img-4784]
+Payload: ID: 4784
+Part: path
+Status Code: 200
+Response Length: 320647 bytes
+Interesting: high
+Notes: Image ID 4784 → Status 200, Length 320647
+
+[img-4785]
+Payload: ID: 4785
+Part: path
+Status Code: 200
+Response Length: 157073 bytes
+Interesting: high
+Notes: Image ID 4785 → Status 200, Length 157073
+
+[img-4786]
+Payload: ID: 4786
+Part: path
+Status Code: 200
+Response Length: 50186 bytes
+Interesting: high
+Notes: Image ID 4786 → Status 200, Length 50186
+
+[img-4787]
+Payload: ID: 4787
+Part: path
+Status Code: 200
+Response Length: 76915 bytes
+Interesting: high
+Notes: Image ID 4787 → Status 200, Length 76915
+
+[img-4788]
+Payload: ID: 4788
+Part: path
+Status Code: 200
+Response Length: 46686 bytes
+Interesting: high
+Notes: Image ID 4788 → Status 200, Length 46686
+
+[img-4789]
+Payload: ID: 4789
+Part: path
+Status Code: 200
+Response Length: 45335 bytes
+Interesting: high
+Notes: Image ID 4789 → Status 200, Length 45335
+
+[img-4790]
+Payload: ID: 4790
+Part: path
+Status Code: 200
+Response Length: 84064 bytes
+Interesting: high
+Notes: Image ID 4790 → Status 200, Length 84064
+
+[img-4791]
+Payload: ID: 4791
+Part: path
+Status Code: 200
+Response Length: 84304 bytes
+Interesting: high
+Notes: Image ID 4791 → Status 200, Length 84304
+
+[img-4792]
+Payload: ID: 4792
+Part: path
+Status Code: 200
+Response Length: 83882 bytes
+Interesting: high
+Notes: Image ID 4792 → Status 200, Length 83882
+
+[img-4793]
+Payload: ID: 4793
+Part: path
+Status Code: 200
+Response Length: 391081 bytes
+Interesting: high
+Notes: Image ID 4793 → Status 200, Length 391081
+
+[img-4794]
+Payload: ID: 4794
+Part: path
+Status Code: 200
+Response Length: 180684 bytes
+Interesting: high
+Notes: Image ID 4794 → Status 200, Length 180684
+
+[img-4795]
+Payload: ID: 4795
+Part: path
+Status Code: 200
+Response Length: 150307 bytes
+Interesting: high
+Notes: Image ID 4795 → Status 200, Length 150307
+
+[img-4796]
+Payload: ID: 4796
+Part: path
+Status Code: 200
+Response Length: 62984 bytes
+Interesting: high
+Notes: Image ID 4796 → Status 200, Length 62984
+
+[img-4797]
+Payload: ID: 4797
+Part: path
+Status Code: 200
+Response Length: 54733 bytes
+Interesting: high
+Notes: Image ID 4797 → Status 200, Length 54733
+
+[img-4798]
+Payload: ID: 4798
+Part: path
+Status Code: 200
+Response Length: 123832 bytes
+Interesting: high
+Notes: Image ID 4798 → Status 200, Length 123832
+
+[img-4799]
+Payload: ID: 4799
+Part: path
+Status Code: 200
+Response Length: 383305 bytes
+Interesting: high
+Notes: Image ID 4799 → Status 200, Length 383305
+
+[img-4800]
+Payload: ID: 4800
+Part: path
+Status Code: 200
+Response Length: 84064 bytes
+Interesting: high
+Notes: Image ID 4800 → Status 200, Length 84064
+
+--- Summary ---
+Total Requests Sent: 102
+Exploited: 0
+Unpredictable: 0
+Low Impact: 0
+No Effect: 5
+
+Report saved by AI Pentest Engine v1.0.
