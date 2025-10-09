@@ -1,0 +1,531 @@
+=== AI Pentest Engine v1.0 Report ===
+Date: ۱۴۰۴/۷/۱۷, ۱۳:۴۶:۱۶
+Attack Module: Suffix Trigger Probe
+Packet Source: packet.txt
+
+--- Packet Summary ---
+Method: GET
+URL: https://sinour.ir/web/image/4766-dff164cd/Slider-02.jpg
+Headers:
+  Host: sinour.ir
+  Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; frontend_lang=fa_IR; tz=Asia/Tehran; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; comparelist_product_ids=[192,253]; im_livechat_history=["/blog/3","/blog/3?search=11&order=name+asc&tag=","/blog/2","/blog/5/114","/blog/6","/blog","/about-us","/contactus","/my/home","/shop/cart","/shop/cart?code_not_available=1","/my/orders","/my/orders?sortby=name","/website/search?search=yakh&order=name+asc","/sexi"]
+  Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept-Language: en-US
+  Sec-Ch-Ua-Mobile: ?0
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+  Sec-Ch-Ua-Platform: "Windows"
+  Sec-Fetch-Site: same-origin
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Dest: empty
+  Accept-Encoding: gzip, deflate, br
+  Priority: u=0, i
+Body:
+  
+
+--- Requests Executed ---
+[suffix-A]
+Payload: sexA
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexA" → Status 200
+
+[suffix-B]
+Payload: sexB
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexB" → Status 200
+
+[suffix-C]
+Payload: sexC
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexC" → Status 200
+
+[suffix-D]
+Payload: sexD
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-E]
+Payload: sexE
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexE" → Status 200
+
+[suffix-F]
+Payload: sexF
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexF" → Status 200
+
+[suffix-G]
+Payload: sexG
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexG" → Status 200
+
+[suffix-H]
+Payload: sexH
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexH" → Status 200
+
+[suffix-I]
+Payload: sexI
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexI" → Status 200
+
+[suffix-J]
+Payload: sexJ
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexJ" → Status 200
+
+[suffix-K]
+Payload: sexK
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexK" → Status 200
+
+[suffix-L]
+Payload: sexL
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexL" → Status 200
+
+[suffix-M]
+Payload: sexM
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexM" → Status 200
+
+[suffix-N]
+Payload: sexN
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexN" → Status 200
+
+[suffix-O]
+Payload: sexO
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexO" → Status 200
+
+[suffix-P]
+Payload: sexP
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexP" → Status 200
+
+[suffix-Q]
+Payload: sexQ
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-R]
+Payload: sexR
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexR" → Status 200
+
+[suffix-S]
+Payload: sexS
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexS" → Status 200
+
+[suffix-T]
+Payload: sexT
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexT" → Status 200
+
+[suffix-U]
+Payload: sexU
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexU" → Status 200
+
+[suffix-V]
+Payload: sexV
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-W]
+Payload: sexW
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexW" → Status 200
+
+[suffix-X]
+Payload: sexX
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexX" → Status 200
+
+[suffix-Y]
+Payload: sexY
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexY" → Status 200
+
+[suffix-Z]
+Payload: sexZ
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexZ" → Status 200
+
+[suffix-a]
+Payload: sexa
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexa" → Status 200
+
+[suffix-b]
+Payload: sexb
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexb" → Status 200
+
+[suffix-c]
+Payload: sexc
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexc" → Status 200
+
+[suffix-d]
+Payload: sexd
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-e]
+Payload: sexe
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexe" → Status 200
+
+[suffix-f]
+Payload: sexf
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexf" → Status 200
+
+[suffix-g]
+Payload: sexg
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexg" → Status 200
+
+[suffix-h]
+Payload: sexh
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexh" → Status 200
+
+[suffix-i]
+Payload: sexi
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexi" → Status 200
+
+[suffix-j]
+Payload: sexj
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexj" → Status 200
+
+[suffix-k]
+Payload: sexk
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexk" → Status 200
+
+[suffix-l]
+Payload: sexl
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexl" → Status 200
+
+[suffix-m]
+Payload: sexm
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexm" → Status 200
+
+[suffix-n]
+Payload: sexn
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-o]
+Payload: sexo
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexo" → Status 200
+
+[suffix-p]
+Payload: sexp
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexp" → Status 200
+
+[suffix-q]
+Payload: sexq
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexq" → Status 200
+
+[suffix-r]
+Payload: sexr
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexr" → Status 200
+
+[suffix-s]
+Payload: sexs
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexs" → Status 200
+
+[suffix-t]
+Payload: sext
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-u]
+Payload: sexu
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexu" → Status 200
+
+[suffix-v]
+Payload: sexv
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexv" → Status 200
+
+[suffix-w]
+Payload: sexw
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexw" → Status 200
+
+[suffix-x]
+Payload: sexx
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexx" → Status 200
+
+[suffix-y]
+Payload: sexy
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexy" → Status 200
+
+[suffix-z]
+Payload: sexz
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sexz" → Status 200
+
+[suffix-0]
+Payload: sex0
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-1]
+Payload: sex1
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex1" → Status 200
+
+[suffix-2]
+Payload: sex2
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex2" → Status 200
+
+[suffix-3]
+Payload: sex3
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex3" → Status 200
+
+[suffix-4]
+Payload: sex4
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex4" → Status 200
+
+[suffix-5]
+Payload: sex5
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex5" → Status 200
+
+[suffix-6]
+Payload: sex6
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex6" → Status 200
+
+[suffix-7]
+Payload: sex7
+Part: query
+Status Code: 0
+Response Length: 0 bytes
+Interesting: none
+Notes: Request failed: Request timed out
+
+[suffix-8]
+Payload: sex8
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex8" → Status 200
+
+[suffix-9]
+Payload: sex9
+Part: query
+Status Code: 200
+Response Length: 233311 bytes
+Interesting: none
+Notes: Payload "sex9" → Status 200
+
+--- Summary ---
+Total Requests Sent: 62
+Exploited: 0
+Unpredictable: 0
+Low Impact: 0
+No Effect: 62
+
+Report saved by AI Pentest Engine v1.0.
