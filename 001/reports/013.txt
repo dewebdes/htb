@@ -1,0 +1,155 @@
+=== AI Pentest Engine v1.0 Report ===
+Date: ۱۴۰۴/۷/۱۷, ۱۴:۵۸:۰۸
+Attack Module: SVG Rendering Logic Abuse
+Packet Source: packet.txt
+
+--- Packet Summary ---
+Method: GET
+URL: https://sinour.ir/web_editor/shape/web_editor/Floats/12.svg?c1=%2318B8FF&c2=%233984C6&c3=%23F6F6F6&c5=%23383E45
+Headers:
+  Host: sinour.ir
+  Cookie: visitor_uuid=4af9414b0f6941eb8a5075343dd4f8c9; session_id=e2456fef21f3812ea52a6512ff7405647bae50b7; frontend_lang=fa_IR; tz=Asia/Tehran; im_livechat_history=["/website/search?search=scobar&order=name+asc","/website?search=scobar%0accc&order=name+asc","/website/search?search=scobar%3C%0abbb&order=name+asc","/website/search?search=x8m5ci8t&order=name+asc","/shop?search=x8m5ci8t","/shop?search=scobar%27%0abbb%3Cb%0A%3Csvg/onload=alert(1)%3E%22%20autofocus%20onfocus=alert(1)%20x=%22%C0%BC&","/shop?commandOrParams=scobar","/shop?commandOrParams=x8m5ci8t","/shop?commandOrParams={}","/shop?commandOrParams=javascript
+  Sec-Ch-Ua: "Not/A)Brand";v="8", "Chromium";v="126"
+  Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+  Accept-Language: en-US
+  Sec-Ch-Ua-Mobile: ?0
+  Upgrade-Insecure-Requests: 1
+  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36
+  Sec-Ch-Ua-Platform: "Windows"
+  Sec-Fetch-Site: same-origin
+  Sec-Fetch-Mode: navigate
+  Sec-Fetch-Dest: empty
+  Accept-Encoding: gzip, deflate, br
+  Priority: u=0, i
+Body:
+  
+
+--- Requests Executed ---
+[rgbabuse-0]
+Payload: rgb(999,999,999)
+Part: query
+Status Code: 200
+Response Length: 55375 bytes
+Interesting: high
+Notes: Rendering abuse → Status 200, Length 55375
+
+[rgbabuse-1]
+Payload: rgb(-1,-1,-1)
+Part: query
+Status Code: 400
+Response Length: 71771 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71771
+
+[rgbabuse-2]
+Payload: rgb(256,256,256)
+Part: query
+Status Code: 200
+Response Length: 55375 bytes
+Interesting: high
+Notes: Rendering abuse → Status 200, Length 55375
+
+[rgbabuse-3]
+Payload: rgb(0.5,0.5,0.5)
+Part: query
+Status Code: 400
+Response Length: 71867 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71867
+
+[rgbabuse-4]
+Payload: rgb(1000000,0,0)
+Part: query
+Status Code: 400
+Response Length: 71867 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71867
+
+[rgbabuse-5]
+Payload: rgb(0,1000000,0)
+Part: query
+Status Code: 400
+Response Length: 71867 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71867
+
+[rgbabuse-6]
+Payload: rgb(0,0,1000000)
+Part: query
+Status Code: 400
+Response Length: 71867 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71867
+
+[rgbabuse-7]
+Payload: rgb(1e6,1e6,1e6)
+Part: query
+Status Code: 400
+Response Length: 71867 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71867
+
+[rgbabuse-8]
+Payload: rgb(0xFF,0xFF,0xFF)
+Part: query
+Status Code: 400
+Response Length: 71963 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71963
+
+[rgbabuse-9]
+Payload: rgb(0%,0%,0%)
+Part: query
+Status Code: 400
+Response Length: 71939 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71939
+
+[rgbabuse-10]
+Payload: rgb(100%,100%,100%)
+Part: query
+Status Code: 400
+Response Length: 72131 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 72131
+
+[rgbabuse-11]
+Payload: rgb(∞,∞,∞)
+Part: query
+Status Code: 400
+Response Length: 72347 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 72347
+
+[rgbabuse-12]
+Payload: rgb(NaN,NaN,NaN)
+Part: query
+Status Code: 400
+Response Length: 71867 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71867
+
+[rgbabuse-13]
+Payload: rgb(null,null,null)
+Part: query
+Status Code: 400
+Response Length: 71963 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 71963
+
+[rgbabuse-14]
+Payload: rgb(undefined,undefined,undefined)
+Part: query
+Status Code: 400
+Response Length: 72443 bytes
+Interesting: none
+Notes: Rendering abuse → Status 400, Length 72443
+
+--- Summary ---
+Total Requests Sent: 15
+Exploited: 0
+Unpredictable: 0
+Low Impact: 0
+No Effect: 13
+
+Report saved by AI Pentest Engine v1.0.
