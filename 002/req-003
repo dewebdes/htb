@@ -1,0 +1,19 @@
+GET /auth/verify?_rsc=1rqwo HTTP/2
+Host: panel.adymob.com
+Rsc: 1
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua: "Google Chrome";v="141", "Not?A_Brand";v="8", "Chromium";v="141"
+Sec-Ch-Ua-Mobile: ?0
+Next-Router-Prefetch: 1
+Next-Router-State-Tree: %5B%22%22%2C%7B%22children%22%3A%5B%22auth%22%2C%7B%22children%22%3A%5B%22__PAGE__%22%2C%7B%7D%2C%22%2Fauth%22%2C%22refresh%22%5D%7D%5D%7D%2Cnull%2Cnull%2Ctrue%5D
+Next-Url: /auth
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://panel.adymob.com/auth
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Priority: u=1, i
+

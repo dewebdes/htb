@@ -1,0 +1,54 @@
+[2025-10-24T10:13:07.509Z] https://panel.adymob.com:443/auth
+Found: innerHTML, fetch, password, login, auth, account, key, verify
+
+[2025-10-24T10:13:08.021Z] https://panel.adymob.com:443/_next/static/css/cc7e379e583e9279.css
+Found: root, key
+
+[2025-10-24T10:13:08.252Z] https://panel.adymob.com:443/_next/static/chunks/main-app-eed3b72373a1e821.js
+Found: Function
+
+[2025-10-24T10:13:08.258Z] https://panel.adymob.com:443/_next/static/chunks/webpack-ca5226362b576ab9.js
+Found: setTimeout, Function, setAttribute, key
+
+[2025-10-24T10:13:08.403Z] https://panel.adymob.com:443/_next/static/chunks/fd9d1056-620a30640414f743.js
+Found: eval, innerHTML, setTimeout, location.href, Function, setAttribute, onclick, fetch, password, secret, user, credentials, root, key, hash, https, validate, query
+
+[2025-10-24T10:13:08.416Z] https://panel.adymob.com:443/_next/static/chunks/app/auth/page-da16e36c2cd019d3.js
+Found: Function
+
+[2025-10-24T10:13:08.459Z] https://panel.adymob.com:443/_next/static/chunks/2543-340115cdce3d86ec.js
+Found: setTimeout, Function, setAttribute, onclick, fetch, localStorage.setItem, password, user, login, token, auth, account, https, verify
+
+[2025-10-24T10:13:08.565Z] https://panel.adymob.com:443/_next/static/chunks/7648-817855aa16a6c0c3.js
+Found: setTimeout, Function, onclick, fetch, user, auth, root, key, hash, https, query
+
+[2025-10-24T10:13:09.178Z] https://panel.adymob.com:443/_next/static/chunks/32ea55aa-02a5ae8d3c5caa56.js
+Found: eval, innerHTML, setTimeout, setInterval, Function, setAttribute, onclick, user, access, session, root, key, hash, https, public, verify, validate, query, sensitive
+
+[2025-10-24T10:13:09.590Z] https://panel.adymob.com:443/_next/static/chunks/473d9b3e-129f94ecf1c15ce2.js
+Found: eval, innerHTML, setTimeout, Function, setAttribute, onclick, user, auth, access, session, root, key, hash, https, verify, validate, query, sensitive, protected
+
+[2025-10-24T10:13:09.608Z] https://panel.adymob.com:443/_next/static/chunks/app/layout-d7044477407eca0e.js
+Found: eval, setInterval, Function, onclick, fetch, admin, user, token, auth, account, key, https, validate
+
+[2025-10-24T10:13:09.909Z] https://panel.adymob.com:443/_next/static/chunks/29b981c0-faf5cb60bc953ab3.js
+Found: eval, innerHTML, setTimeout, Function, setAttribute, onclick, fetch, user, login, token, access, root, key, hash, https, public, verify, validate, query, identity
+
+[2025-10-24T10:13:09.918Z] https://panel.adymob.com:443/auth/onboard?_rsc=1rqwo
+Found: innerHTML, auth, key
+
+[2025-10-24T10:13:09.924Z] https://panel.adymob.com:443/auth/verify?_rsc=1rqwo
+Found: innerHTML, auth, key, verify
+
+[2025-10-24T10:13:09.930Z] https://panel.adymob.com:443/auth/forgot?_rsc=1rqwo
+Found: innerHTML, password, auth, key
+
+[2025-10-24T10:13:09.935Z] https://panel.adymob.com:443/_next/static/chunks/app/auth/onboard/page-eba54c5e4a094a9c.js
+Found: Function, onclick, password, login, auth, account, https, regulation
+
+[2025-10-24T10:13:09.940Z] https://panel.adymob.com:443/_next/static/chunks/app/auth/verify/page-3054a53107579f8e.js
+Found: Function, setAttribute, onclick, fetch, user, login, token, auth, account, https, verify
+
+[2025-10-24T10:13:09.945Z] https://panel.adymob.com:443/_next/static/chunks/app/auth/forgot/page-0b37e39a1eea9554.js
+Found: Function, setAttribute, onclick, fetch, password, user, login, token, auth, account, https
+
